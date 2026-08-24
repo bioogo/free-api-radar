@@ -75,6 +75,17 @@ if (-not (Test-Path ".git")) {
 & $git config core.autocrlf false   # keep LF inside the repo, avoid CRLF warnings
 & $git config commit.gpgsign false  # do not let global GPG signing block the commit
 
+# MinGit ships no system gitconfig, so git would look for its CA bundle at the
+# compiled-in default (C:\Program Files\Git\...) and fail. Point it at the real
+# bundle relative to the git install root (also harmless for full Git installs).
+$gitRoot = Split-Path -Parent (Split-Path -Parent $git)   # git.exe lives in <root>\cmd\
+$ca = @(
+  (Join-Path $gitRoot "mingw64\etc\ssl\certs\ca-bundle.crt"),
+  (Join-Path $gitRoot "mingw64\ssl\certs\ca-bundle.crt"),
+  (Join-Path $gitRoot "ssl\certs\ca-bundle.crt")
+) | Where-Object { Test-Path $_ } | Select-Object -First 1
+if ($ca) { & $git config http.sslCAInfo $ca; Write-Host "TLS CA bundle: $ca" }
+
 # 3) identity fallback (required for the first commit)
 $name = & $git config user.name 2>$null
 $email = & $git config user.email 2>$null
