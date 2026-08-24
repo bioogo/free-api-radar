@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "description": "free-api-radar 人工维护的种子数据（离线兜底 + 无公开目录接口平台的免费信息）。免费额度、限速、定价随时变动，一律以各平台官网为准。",
+    "updatedAt": "2026-08-13T00:00:00.000Z"
+  },
+  "quickFacts": [
+    {
+      "platform": "华为 WorkSwarm",
+      "fact": "AI 办公平台，开发者招募计划提供免费 Token，聚合多模型能力（额度与模型名单以官方公告为准）",
+      "link": "https://www.huawei.com/"
+    },
+    {
+      "platform": "OpenRouter",
+      "fact": "提供大量 :free 免费模型变体（0 美元），OpenAI 兼容端点，无需 Key 可试调",
+      "link": "https://openrouter.ai/models"
+    },
+    {
+      "platform": "Google AI Studio",
+      "fact": "Gemini 全系模型免费配额档（Tier 1），需 API Key",
+      "link": "https://aistudio.google.com/apikey"
+    },
+    {
+      "platform": "GitHub Models",
+      "fact": "GitHub 账号免费额度，可试调 GPT/Claude/Gemini/DeepSeek 等（有限速）",
+      "link": "https://models.github.ai"
+    },
+    {
+      "platform": "NVIDIA NIM",
+      "fact": "build.nvidia.com 提供免费 API Key，可调用 Llama、Nemotron、DeepSeek 等推理微服务",
+      "link": "https://build.nvidia.com"
+    },
+    {
+      "platform": "Cloudflare Workers AI",
+      "fact": "免费档每天 10,000 神经元",
+      "link": "https://developers.cloudflare.com/workers-ai/"
+    },
+    {
+      "platform": "Groq",
+      "fact": "免费额度档，Llama-3、Gemma、Whisper 等超低延迟推理",
+      "link": "https://console.groq.com"
+    },
+    {
+      "platform": "Cerebras",
+      "fact": "免费额度档，Llama 系列极速推理",
+      "link": "https://cloud.cerebras.ai"
+    },
+    {
+      "platform": "Together AI",
+      "fact": "免费模型（id 带 -Free 后缀，限速）",
+      "link": "https://www.together.ai"
+    },
+    {
+      "platform": "Mistral",
+      "fact": "La Plateforme 免费档（有速率限制）",
+      "link": "https://console.mistral.ai"
+    },
+    {
+      "platform": "Cohere",
+      "fact": "开发者免费额度（trial key），支持生成/嵌入/RAG",
+      "link": "https://cohere.com"
+    },
+    {
+      "platform": "SiliconFlow 硅基流动",
+      "fact": "多个小参数开源模型长期免费",
+      "link": "https://cloud.siliconflow.cn/models"
+    },
+    {
+      "platform": "智谱 GLM",
+      "fact": "GLM-4-Flash 系列长期免费；新用户另有赠额",
+      "link": "https://open.bigmodel.cn/pricing"
+    },
+    {
+      "platform": "阿里云百炼",
+      "fact": "qwen-flash / qwen-turbo 等有免费额度；新用户赠额",
+      "link": "https://bailian.console.aliyun.com/"
+    },
+    {
+      "platform": "百度千帆",
+      "fact": "文心系列有免费额度（随活动变动）",
+      "link": "https://console.bce.baidu.com/qianfan"
+    },
+    {
+      "platform": "月之暗面 Kimi",
+      "fact": "新用户赠送额度（moonshot-v1 系列）",
+      "link": "https://platform.moonshot.cn"
+    },
+    {
+      "platform": "MiniMax",
+      "fact": "新用户赠送额度（abab 系列）",
+      "link": "https://platform.minimaxi.com"
+    },
+    {
+      "platform": "阶跃星辰 Step",
+      "fact": "注册赠送额度（step 系列）",
+      "link": "https://platform.stepfun.com"
+    },
+    {
+      "platform": "DeepSeek 官方",
+      "fact": "官方 API 为按量付费；充值/赠送政策见官网，不属免费档",
+      "link": "https://platform.deepseek.com"
+    }
+  ],
+  "entries": [
+    {
+      "platform": "nvidia-nim",
+      "platformLabel": "NVIDIA NIM",
+      "modelId": "nvidia/llama-3.1-nemotron-70b-instruct",
+      "displayName": "Llama 3.1 Nemotron 70B Instruct",
+      "category": "chat",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "build.nvidia.com 免费 API Key 可调用（有速率限制）",
+      "contextWindow": 131072,
+      "baseUrl": "https://integrate.api.nvidia.com/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "NVIDIA_API_KEY",
+      "rateLimit": "免费档限速（约 40 RPM，随账号变动）",
+      "notes": "以 build.nvidia.com 当前模型列表为准",
+      "source": "curated",
+      "link": "https://build.nvidia.com"
+    },
+    {
+      "platform": "groq",
+      "platformLabel": "Groq",
+      "modelId": "llama-3.3-70b-versatile",
+      "displayName": "Llama 3.3 70B Versatile",
+      "category": "chat",
+      "free": true,
+      "freeKind": "quota",
+      "freeDetail": "Groq 免费额度档",
+      "contextWindow": 131072,
+      "baseUrl": "https://api.groq.com/openai/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "GROQ_API_KEY",
+      "rateLimit": "免费档有 RPM/TPM 限制",
+      "notes": "模型名单以 console.groq.com 为准",
+      "source": "curated",
+      "link": "https://console.groq.com"
+    },
+    {
+      "platform": "groq",
+      "platformLabel": "Groq",
+      "modelId": "whisper-large-v3",
+      "displayName": "Whisper Large V3 (ASR)",
+      "category": "asr",
+      "free": true,
+      "freeKind": "quota",
+      "freeDetail": "Groq 免费额度档",
+      "contextWindow": null,
+      "baseUrl": "https://api.groq.com/openai/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "GROQ_API_KEY",
+      "rateLimit": "免费档有限制",
+      "notes": "",
+      "source": "curated",
+      "link": "https://console.groq.com"
+    },
+    {
+      "platform": "mistral",
+      "platformLabel": "Mistral",
+      "modelId": "mistral-small-latest",
+      "displayName": "Mistral Small",
+      "category": "chat",
+      "free": true,
+      "freeKind": "quota",
+      "freeDetail": "La Plateforme 免费档（实验性，有速率限制）",
+      "contextWindow": 128000,
+      "baseUrl": "https://api.mistral.ai/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "MISTRAL_API_KEY",
+      "rateLimit": "免费档限速",
+      "notes": "以 console.mistral.ai 为准",
+      "source": "curated",
+      "link": "https://console.mistral.ai"
+    },
+    {
+      "platform": "cohere",
+      "platformLabel": "Cohere",
+      "modelId": "command-r-plus",
+      "displayName": "Command R+",
+      "category": "chat",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "开发者免费 trial key",
+      "contextWindow": 128000,
+      "baseUrl": "https://api.cohere.com/v1",
+      "apiStyle": "native",
+      "authRequired": true,
+      "authEnv": "COHERE_API_KEY",
+      "rateLimit": "trial 限速",
+      "notes": "以 cohere.com 为准",
+      "source": "curated",
+      "link": "https://cohere.com"
+    },
+    {
+      "platform": "moonshot",
+      "platformLabel": "月之暗面 Kimi",
+      "modelId": "moonshot-v1-8k",
+      "displayName": "Moonshot v1 8K",
+      "category": "chat",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "新用户赠送额度",
+      "contextWindow": 8192,
+      "baseUrl": "https://api.moonshot.cn/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "MOONSHOT_API_KEY",
+      "rateLimit": null,
+      "notes": "赠额用尽后按量付费",
+      "source": "curated",
+      "link": "https://platform.moonshot.cn"
+    },
+    {
+      "platform": "minimax",
+      "platformLabel": "MiniMax",
+      "modelId": "abab6.5s-chat",
+      "displayName": "abab6.5s-chat",
+      "category": "chat",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "新用户赠送额度",
+      "contextWindow": 245760,
+      "baseUrl": "https://api.minimax.chat/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "MINIMAX_API_KEY",
+      "rateLimit": null,
+      "notes": "赠额用尽后按量付费",
+      "source": "curated",
+      "link": "https://platform.minimaxi.com"
+    },
+    {
+      "platform": "stepfun",
+      "platformLabel": "阶跃星辰 Step",
+      "modelId": "step-1-8k",
+      "displayName": "Step-1 8K",
+      "category": "chat",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "注册赠送额度",
+      "contextWindow": 8192,
+      "baseUrl": "https://api.stepfun.com/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "STEP_API_KEY",
+      "rateLimit": null,
+      "notes": "赠额用尽后按量付费",
+      "source": "curated",
+      "link": "https://platform.stepfun.com"
+    },
+    {
+      "platform": "baidu-qianfan",
+      "platformLabel": "百度千帆",
+      "modelId": "ernie-4.0-turbo-8k",
+      "displayName": "文心 ERNIE 4.0 Turbo",
+      "category": "chat",
+      "free": true,
+      "freeKind": "quota",
+      "freeDetail": "千帆平台免费额度（随活动变动）",
+      "contextWindow": 8192,
+      "baseUrl": "https://qianfan.baidubce.com/v2",
+      "apiStyle": "openai-compatible",
+      "authRequired": true,
+      "authEnv": "QIANFAN_ACCESS_KEY",
+      "rateLimit": null,
+      "notes": "以千帆控制台为准",
+      "source": "curated",
+      "link": "https://console.bce.baidu.com/qianfan"
+    },
+    {
+      "platform": "workswarm",
+      "platformLabel": "华为 WorkSwarm",
+      "modelId": "workswarm-free-token-program",
+      "displayName": "WorkSwarm 开发者免费 Token 计划",
+      "category": "other",
+      "free": true,
+      "freeKind": "trial",
+      "freeDetail": "华为 WorkSwarm 内置免费模型实际走 OpenCode Zen 网关（opencode.ai/zen/v1，免密钥）。本插件已将该源自动拉取（见 sources.json 的 opencode 源，模型 id 以 -free 结尾，如 hy3-free、deepseek-v4-flash-free）。此条目保留作提示。",
+      "contextWindow": null,
+      "baseUrl": null,
+      "apiStyle": "unknown",
+      "authRequired": true,
+      "authEnv": "WORKSWARM_TOKEN",
+      "rateLimit": null,
+      "notes": "WorkSwarm 免费模型的真实来源已逆向确认：OpenCode Zen 网关。请使用 opencode 自动源获取实时免费模型列表。",
+      "source": "curated",
+      "link": "https://opencode.ai/zen"
+    },
+    {
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "deepseek/deepseek-r1:free",
+      "displayName": "DeepSeek R1 (free)",
+      "category": "reasoning",
+      "free": true,
+      "freeKind": "permanent",
+      "freeDetail": "OpenRouter :free 变体（0 美元）",
+      "contextWindow": 163840,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": "免费变体有限速（50 req/天 量级，随平台调整）",
+      "notes": "种子数据；refresh 时会被 OpenRouter 实时目录覆盖",
+      "source": "curated",
+      "link": "https://openrouter.ai/models/deepseek/deepseek-r1:free"
+    }
+  ]
+}

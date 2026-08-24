@@ -1,0 +1,10 @@
+# free-api-radar bundle patch: 在 profile 根上追加一行工具插件。
+# 安装方式：在插件目录执行
+#   dsh plugin --profile <name> add .
+# 然后重启 profile 的 Host（dsh --profile <name> 重启）。
+- insert:
+    - id: free-api-radar
+      name: 'free-api-radar'
+      config:
+        script: './scripts/fetch-free-apis.mjs'
+        maxOutputChars: 6000

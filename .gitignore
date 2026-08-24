@@ -1,0 +1,9 @@
+node_modules/
+.tmp/
+data/free-apis.json
+data/free-apis.md
+data/state.json
+data/refresh.log
+data/references/
+.env
+*.local

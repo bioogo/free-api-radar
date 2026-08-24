@@ -1,0 +1,42 @@
+{
+  "name": "free-api-radar",
+  "version": "1.1.0",
+  "description": "全平台免费可调用 API / 免费大模型 API 自动拉取雷达：从 OpenRouter、Gemini、GitHub Models、SiliconFlow、智谱、百炼、Cloudflare 及社区清单拉取数据，输出统一免费 API 索引与报告（含华为 WorkSwarm 等人工维护条目）。",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./scripts/fetch-free-apis.mjs": "./scripts/fetch-free-apis.mjs",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "scripts",
+    "data",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh-tools": "^0.1.1-rc.2",
+    "@deepseek-ai/schemastery": "^1.0.0"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "free-api",
+    "llm",
+    "models",
+    "workswarm"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bioogo/free-api-radar"
+  }
+}
