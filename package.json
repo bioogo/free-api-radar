@@ -10,6 +10,7 @@
     "./package.json": "./package.json"
   },
   "files": [
+    ".dsh",
     "lib",
     "scripts",
     "data",
