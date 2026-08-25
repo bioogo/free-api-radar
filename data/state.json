@@ -1,31 +1,63 @@
 {
-  "lastRunAt": "2026-08-24T05:37:32.667Z",
+  "lastRunAt": "2026-08-25T02:47:54.461Z",
   "mode": "online",
   "totals": {
-    "entries": 497,
-    "free": 41,
-    "platforms": 11,
+    "entries": 610,
+    "free": 156,
+    "platforms": 27,
     "byPlatform": {
+      "community:aion-labs": 4,
+      "community:cloudflare-workers-ai": 8,
+      "community:cohere": 11,
       "cohere": 1,
+      "community:google-gemini": 10,
+      "community:groq": 5,
       "groq": 2,
+      "community:hugging-face": 6,
+      "community:kilo-code": 11,
+      "community:llm7-io": 3,
       "minimax": 1,
       "mistral": 1,
+      "community:mistral-ai": 7,
+      "community:modelscope": 3,
+      "community:nvidia-nim": 12,
       "nvidia-nim": 1,
+      "community:ollama-cloud": 10,
       "opencode": 64,
-      "openrouter": 423,
+      "community:openrouter": 12,
+      "openrouter": 418,
+      "community:ovhcloud-ai-endpoints": 12,
+      "community:siliconflow": 1,
+      "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
       "moonshot": 1,
       "baidu-qianfan": 1,
       "stepfun": 1
     },
     "freeByPlatform": {
+      "community:aion-labs": 4,
+      "community:cloudflare-workers-ai": 8,
+      "community:cohere": 11,
       "cohere": 1,
+      "community:google-gemini": 10,
+      "community:groq": 5,
       "groq": 2,
+      "community:hugging-face": 6,
+      "community:kilo-code": 11,
+      "community:llm7-io": 3,
       "minimax": 1,
       "mistral": 1,
+      "community:mistral-ai": 7,
+      "community:modelscope": 3,
+      "community:nvidia-nim": 12,
       "nvidia-nim": 1,
+      "community:ollama-cloud": 10,
       "opencode": 8,
-      "openrouter": 23,
+      "community:openrouter": 12,
+      "openrouter": 20,
+      "community:ovhcloud-ai-endpoints": 12,
+      "community:siliconflow": 1,
+      "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
       "moonshot": 1,
       "baidu-qianfan": 1,
@@ -36,23 +68,23 @@
     "opencode": {
       "status": "ok",
       "count": 64,
-      "durationMs": 875
+      "durationMs": 315
     },
     "openrouter": {
       "status": "ok",
-      "count": 422,
-      "durationMs": 938
+      "count": 417,
+      "durationMs": 52
     },
     "siliconflow": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥）"
     },
     "github-models": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 2383,
+      "durationMs": 963,
       "skipped": "目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点"
     },
     "google-ai-studio": {
@@ -70,7 +102,7 @@
     "dashscope": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 DASHSCOPE_API_KEY"
     },
     "cloudflare-workers-ai": {
@@ -124,7 +156,7 @@
     "deepseek": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥）"
     },
     "baidu-qianfan": {
@@ -134,18 +166,18 @@
       "skipped": "缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥）"
     },
     "mnfst-awesome-free-llm-apis": {
-      "status": "error",
-      "error": "timeout after 15000ms",
-      "durationMs": 45953
+      "status": "ok",
+      "count": 118,
+      "durationMs": 38
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 1012,
+      "durationMs": 65,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
-        "path": "D:\\新建文件夹\\插件\\data\\references\\awesome-freellm-apis.md"
+        "path": "/home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md"
       }
     }
   },
