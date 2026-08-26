@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-08-25T02:47:54.461Z（在线拉取）
-> 共收录 **156** 条免费条目 / **610** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-08-26T02:54:33.224Z（在线拉取）
+> 共收录 **158** 条免费条目 / **610** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -296,6 +296,8 @@
 | Google: Lyria 3 Clip Preview（`google/lyria-3-clip-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | Google: Lyria 3 Pro Preview（`google/lyria-3-pro-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | LiquidAI: LFM2.5-2.6B (free)（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 无需 Key |  |
+| MiniMax: MiniMax M2.7 (free)（`minimax/minimax-m2.7:free`） | chat | permanent | 196608 | 无需 Key |  |
+| MiniMax: MiniMax M3 (free)（`minimax/minimax-m3:free`） | chat | permanent | 1048576 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Nano Omni (free)（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 256000 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Super (free)（`nvidia/nemotron-3-super-120b-a12b:free`） | chat | permanent | 262144 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Ultra (free)（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1000000 | 无需 Key |  |
