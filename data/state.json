@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-08-27T12:03:13.017Z",
+  "lastRunAt": "2026-08-28T13:24:52.743Z",
   "mode": "online",
   "totals": {
-    "entries": 609,
-    "free": 156,
+    "entries": 579,
+    "free": 157,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -25,7 +25,7 @@
       "community:ollama-cloud": 10,
       "opencode": 63,
       "community:openrouter": 12,
-      "openrouter": 418,
+      "openrouter": 388,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -54,7 +54,7 @@
       "community:ollama-cloud": 10,
       "opencode": 7,
       "community:openrouter": 12,
-      "openrouter": 21,
+      "openrouter": 22,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 63,
-      "durationMs": 231
+      "durationMs": 158
     },
     "openrouter": {
       "status": "ok",
-      "count": 417,
-      "durationMs": 109
+      "count": 387,
+      "durationMs": 84
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1246,
+      "durationMs": 1009,
       "skipped": "目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点"
     },
     "google-ai-studio": {
@@ -114,7 +114,7 @@
     "nvidia-nim": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 NVIDIA_API_KEY（模型目录接口需要密钥）"
     },
     "groq": {
@@ -168,12 +168,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 143
+      "durationMs": 80
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 108,
+      "durationMs": 56,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",

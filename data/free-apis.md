@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-08-27T12:03:13.017Z（在线拉取）
-> 共收录 **156** 条免费条目 / **609** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-08-28T13:24:52.743Z（在线拉取）
+> 共收录 **157** 条免费条目 / **579** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 63 |  |
-| OpenRouter | ok | 417 |  |
+| OpenRouter | ok | 387 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
 | Google AI Studio (Gemini) | skipped | 0 | 缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请） |
@@ -294,6 +294,7 @@
 | Google: Gemma 4 31B (free)（`google/gemma-4-31b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Google: Lyria 3 Clip Preview（`google/lyria-3-clip-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | Google: Lyria 3 Pro Preview（`google/lyria-3-pro-preview`） | chat | permanent | 1048576 | 无需 Key |  |
+| Ling 3.0 Flash Fin (free)（`inclusionai/ling-3.0-flash-fin:free`） | chat | permanent | 262144 | 无需 Key |  |
 | LiquidAI: LFM2.5-2.6B (free)（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 无需 Key |  |
 | MiniMax: MiniMax M2.7 (free)（`minimax/minimax-m2.7:free`） | chat | permanent | 196608 | 无需 Key |  |
 | MiniMax: MiniMax M3 (free)（`minimax/minimax-m3:free`） | chat | permanent | 1048576 | 无需 Key |  |
