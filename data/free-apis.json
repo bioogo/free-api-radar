@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generatedAt": "2026-08-28T13:24:52.743Z",
+    "generatedAt": "2026-08-29T08:19:44.868Z",
     "mode": "online",
-    "freeCount": 157,
-    "totalCount": 579,
+    "freeCount": 158,
+    "totalCount": 589,
     "note": "免费状态与额度以各平台官网为准；本文件由 free-api-radar 自动生成"
   },
   "entries": [
@@ -25,7 +25,7 @@
       "rateLimit": "15 RPM, 20K TPD",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.aionlabs.ai/app/api-keys/"
     },
     {
@@ -46,7 +46,7 @@
       "rateLimit": "15 RPM, 20K TPD",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.aionlabs.ai/app/api-keys/"
     },
     {
@@ -67,7 +67,7 @@
       "rateLimit": "15 RPM, 20K TPD",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.aionlabs.ai/app/api-keys/"
     },
     {
@@ -88,7 +88,7 @@
       "rateLimit": "15 RPM, 20K TPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.aionlabs.ai/app/api-keys/"
     },
     {
@@ -109,7 +109,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -130,7 +130,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -151,7 +151,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -172,7 +172,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Multimodal",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -193,7 +193,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -214,7 +214,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -235,7 +235,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -256,7 +256,7 @@
       "rateLimit": "10K neurons/day (shared)",
       "notes": "Text, Image, Audio, Embeddings",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dash.cloudflare.com/profile/api-tokens"
     },
     {
@@ -277,7 +277,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -298,7 +298,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -319,7 +319,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -340,7 +340,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -361,7 +361,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -382,7 +382,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -403,7 +403,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -424,7 +424,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -466,7 +466,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -487,7 +487,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -508,7 +508,7 @@
       "rateLimit": "20 RPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://dashboard.cohere.com/api-keys"
     },
     {
@@ -529,7 +529,7 @@
       "rateLimit": "15 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -550,7 +550,7 @@
       "rateLimit": "30 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -571,7 +571,7 @@
       "rateLimit": "5 RPM, 50 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -592,7 +592,7 @@
       "rateLimit": "30 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -613,7 +613,7 @@
       "rateLimit": "15 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -634,7 +634,7 @@
       "rateLimit": "30 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -655,7 +655,7 @@
       "rateLimit": "15 RPM, 1,500 RPD",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -676,7 +676,7 @@
       "rateLimit": "—",
       "notes": "Text + Image + Audio + Video",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -697,7 +697,7 @@
       "rateLimit": "—",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -718,7 +718,7 @@
       "rateLimit": "—",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://aistudio.google.com/app/apikey"
     },
     {
@@ -739,7 +739,7 @@
       "rateLimit": "30 RPM, 250 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.groq.com/keys"
     },
     {
@@ -760,7 +760,7 @@
       "rateLimit": "30 RPM, 250 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.groq.com/keys"
     },
     {
@@ -802,7 +802,7 @@
       "rateLimit": "30 RPM, 1,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.groq.com/keys"
     },
     {
@@ -823,7 +823,7 @@
       "rateLimit": "30 RPM, 1,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.groq.com/keys"
     },
     {
@@ -844,7 +844,7 @@
       "rateLimit": "30 RPM, 1,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.groq.com/keys"
     },
     {
@@ -886,7 +886,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text, Image, Audio, Embeddings",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -907,7 +907,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -928,7 +928,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -949,7 +949,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -970,7 +970,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -991,7 +991,7 @@
       "rateLimit": "Credit-metered",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://huggingface.co/settings/tokens"
     },
     {
@@ -1012,7 +1012,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1033,7 +1033,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1054,7 +1054,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Multimodal",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1075,7 +1075,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1096,7 +1096,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1117,7 +1117,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1138,7 +1138,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1159,7 +1159,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1180,7 +1180,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1201,7 +1201,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1222,7 +1222,7 @@
       "rateLimit": "200 req/hr",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://app.kilo.ai/profile"
     },
     {
@@ -1243,7 +1243,7 @@
       "rateLimit": "10 RPM, 60 req/hr (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://token.llm7.io"
     },
     {
@@ -1264,7 +1264,7 @@
       "rateLimit": "10 RPM, 60 req/hr (anonymous)",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://token.llm7.io"
     },
     {
@@ -1285,7 +1285,7 @@
       "rateLimit": "10 RPM, 60 req/hr (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://token.llm7.io"
     },
     {
@@ -1348,7 +1348,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Code",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1369,7 +1369,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1390,7 +1390,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1411,7 +1411,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1432,7 +1432,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Multimodal",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1453,7 +1453,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Text + Image + Code",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1474,7 +1474,7 @@
       "rateLimit": "~1 RPS, 500K TPM",
       "notes": "Text + Image + Code",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://console.mistral.ai/api-keys"
     },
     {
@@ -1495,7 +1495,7 @@
       "rateLimit": "Dynamic quotas + dynamic concurrency",
       "notes": "LLM, MLLM",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://modelscope.cn/my/myaccesstoken"
     },
     {
@@ -1516,7 +1516,7 @@
       "rateLimit": "2,000 RPD total; <=500 RPD/model (dynamic)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://modelscope.cn/my/myaccesstoken"
     },
     {
@@ -1537,7 +1537,7 @@
       "rateLimit": "2,000 RPD total; <=500 RPD/model (dynamic)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://modelscope.cn/my/myaccesstoken"
     },
     {
@@ -1558,7 +1558,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text, Image, Video, Speech, Embeddings",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1579,7 +1579,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1600,7 +1600,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1621,7 +1621,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1642,7 +1642,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1663,7 +1663,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1705,7 +1705,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1726,7 +1726,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1747,7 +1747,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1768,7 +1768,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1789,7 +1789,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1810,7 +1810,7 @@
       "rateLimit": "40 RPM, 10,000 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://build.nvidia.com/explore/discover"
     },
     {
@@ -1831,7 +1831,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1852,7 +1852,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1873,7 +1873,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1894,7 +1894,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1915,7 +1915,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1936,7 +1936,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1957,7 +1957,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1978,7 +1978,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -1999,7 +1999,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -2020,7 +2020,7 @@
       "rateLimit": "Session/weekly limits (unpublished)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://ollama.com/settings/keys"
     },
     {
@@ -2041,7 +2041,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2062,7 +2062,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.625Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2083,7 +2083,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2104,7 +2104,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2125,7 +2125,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2146,7 +2146,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2167,7 +2167,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2188,7 +2188,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2209,7 +2209,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2230,7 +2230,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2251,7 +2251,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2272,7 +2272,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2293,7 +2293,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2314,7 +2314,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2335,7 +2335,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2356,7 +2356,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2377,7 +2377,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2398,7 +2398,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2419,7 +2419,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2440,7 +2440,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2461,7 +2461,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2482,7 +2482,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2503,7 +2503,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2524,7 +2524,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2545,7 +2545,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2566,7 +2566,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2587,7 +2587,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2608,7 +2608,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2629,7 +2629,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2650,7 +2650,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2671,7 +2671,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2692,7 +2692,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2713,7 +2713,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2734,7 +2734,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2755,7 +2755,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2776,7 +2776,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2797,7 +2797,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2818,7 +2818,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2839,7 +2839,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2860,7 +2860,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2881,7 +2881,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2902,7 +2902,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2923,7 +2923,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2944,7 +2944,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2965,7 +2965,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -2986,7 +2986,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3007,7 +3007,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3028,7 +3028,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3049,7 +3049,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3070,7 +3070,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3091,7 +3091,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3112,7 +3112,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3133,7 +3133,28 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
+      "link": "https://opencode.ai/zen"
+    },
+    {
+      "id": "opencode:ling-3.0-flash-fin-free",
+      "platform": "opencode",
+      "platformLabel": "OpenCode Zen（WorkSwarm 同源免费网关）",
+      "modelId": "ling-3.0-flash-fin-free",
+      "displayName": "ling-3.0-flash-fin-free",
+      "category": "chat",
+      "free": true,
+      "freeKind": "permanent",
+      "freeDetail": "OpenCode Zen 网关免费模型（输入/输出 $0，有限速）",
+      "contextWindow": null,
+      "baseUrl": "https://opencode.ai/zen/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": "Zen 免费模型有限速",
+      "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
+      "source": "opencode-live",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3154,7 +3175,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3175,7 +3196,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3196,7 +3217,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3217,7 +3238,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3238,7 +3259,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3259,7 +3280,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3280,7 +3301,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3301,7 +3322,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3322,7 +3343,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3343,7 +3364,7 @@
       "rateLimit": "Zen 免费模型有限速",
       "notes": "OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。",
       "source": "opencode-live",
-      "verifiedAt": "2026-08-28T13:24:51.505Z",
+      "verifiedAt": "2026-08-29T08:19:43.626Z",
       "link": "https://opencode.ai/zen"
     },
     {
@@ -3364,7 +3385,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text / Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -3385,7 +3406,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~anthropic%2Fclaude-fable-latest"
     },
     {
@@ -3406,7 +3427,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~anthropic%2Fclaude-haiku-latest"
     },
     {
@@ -3427,7 +3448,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~anthropic%2Fclaude-opus-latest"
     },
     {
@@ -3448,7 +3469,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~anthropic%2Fclaude-sonnet-latest"
     },
     {
@@ -3469,7 +3490,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~deepseek%2Fdeepseek-v4-flash-latest"
     },
     {
@@ -3490,7 +3511,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~google%2Fgemini-flash-latest"
     },
     {
@@ -3511,7 +3532,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~google%2Fgemini-pro-latest"
     },
     {
@@ -3532,7 +3553,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~moonshotai%2Fkimi-latest"
     },
     {
@@ -3553,7 +3574,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~openai%2Fgpt-latest"
     },
     {
@@ -3574,7 +3595,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~openai%2Fgpt-mini-latest"
     },
     {
@@ -3595,7 +3616,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~x-ai%2Fgrok-latest"
     },
     {
@@ -3608,7 +3629,7 @@
       "free": false,
       "freeKind": "paid",
       "freeDetail": "付费模型（未收录）",
-      "contextWindow": 1048576,
+      "contextWindow": 1310720,
       "baseUrl": "https://openrouter.ai/api/v1",
       "apiStyle": "openai-compatible",
       "authRequired": false,
@@ -3616,7 +3637,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/~z-ai%2Fglm-latest"
     },
     {
@@ -3637,7 +3658,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/aion-labs%2Faion-2.0"
     },
     {
@@ -3658,7 +3679,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/aion-labs%2Faion-3.0"
     },
     {
@@ -3679,7 +3700,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/aion-labs%2Faion-3.0-mini"
     },
     {
@@ -3700,29 +3721,8 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/aion-labs%2Faion-rp-llama-3.1-8b"
-    },
-    {
-      "id": "openrouter:allenai/olmo-3-32b-think",
-      "platform": "openrouter",
-      "platformLabel": "OpenRouter",
-      "modelId": "allenai/olmo-3-32b-think",
-      "displayName": "AllenAI: Olmo 3 32B Think",
-      "category": "reasoning",
-      "free": false,
-      "freeKind": "paid",
-      "freeDetail": "付费模型（未收录）",
-      "contextWindow": 65536,
-      "baseUrl": "https://openrouter.ai/api/v1",
-      "apiStyle": "openai-compatible",
-      "authRequired": false,
-      "authEnv": null,
-      "rateLimit": null,
-      "notes": "",
-      "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
-      "link": "https://openrouter.ai/models/allenai%2Folmo-3-32b-think"
     },
     {
       "id": "openrouter:amazon/nova-2-lite-v1",
@@ -3742,7 +3742,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/amazon%2Fnova-2-lite-v1"
     },
     {
@@ -3763,7 +3763,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/amazon%2Fnova-lite-v1"
     },
     {
@@ -3784,7 +3784,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/amazon%2Fnova-micro-v1"
     },
     {
@@ -3805,7 +3805,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/amazon%2Fnova-premier-v1"
     },
     {
@@ -3826,7 +3826,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/amazon%2Fnova-pro-v1"
     },
     {
@@ -3847,7 +3847,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/anthracite-org%2Fmagnum-v4-72b"
     },
     {
@@ -3868,7 +3868,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-3-haiku"
     },
     {
@@ -3889,7 +3889,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-fable-5"
     },
     {
@@ -3910,7 +3910,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-fable-5%3Abatch"
     },
     {
@@ -3931,7 +3931,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-haiku-4.5"
     },
     {
@@ -3952,7 +3952,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-haiku-4.5%3Abatch"
     },
     {
@@ -3973,7 +3973,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4"
     },
     {
@@ -3994,7 +3994,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.1"
     },
     {
@@ -4015,7 +4015,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.1%3Abatch"
     },
     {
@@ -4036,7 +4036,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.5"
     },
     {
@@ -4057,7 +4057,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.5%3Abatch"
     },
     {
@@ -4078,7 +4078,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.6"
     },
     {
@@ -4099,7 +4099,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.6%3Abatch"
     },
     {
@@ -4120,7 +4120,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.7"
     },
     {
@@ -4141,7 +4141,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.7-fast"
     },
     {
@@ -4162,7 +4162,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.7%3Abatch"
     },
     {
@@ -4183,7 +4183,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.8"
     },
     {
@@ -4204,7 +4204,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.8-fast"
     },
     {
@@ -4225,7 +4225,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-4.8%3Abatch"
     },
     {
@@ -4246,7 +4246,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-5"
     },
     {
@@ -4267,7 +4267,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-5-fast"
     },
     {
@@ -4288,7 +4288,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-opus-5%3Abatch"
     },
     {
@@ -4309,7 +4309,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-4"
     },
     {
@@ -4330,7 +4330,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-4.5"
     },
     {
@@ -4351,7 +4351,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-4.5%3Abatch"
     },
     {
@@ -4372,7 +4372,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-4.6"
     },
     {
@@ -4393,7 +4393,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-4.6%3Abatch"
     },
     {
@@ -4414,7 +4414,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-5"
     },
     {
@@ -4435,7 +4435,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/anthropic%2Fclaude-sonnet-5%3Abatch"
     },
     {
@@ -4456,29 +4456,8 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/arcee-ai%2Ftrinity-large-thinking"
-    },
-    {
-      "id": "openrouter:arcee-ai/virtuoso-large",
-      "platform": "openrouter",
-      "platformLabel": "OpenRouter",
-      "modelId": "arcee-ai/virtuoso-large",
-      "displayName": "Arcee AI: Virtuoso Large",
-      "category": "chat",
-      "free": false,
-      "freeKind": "paid",
-      "freeDetail": "付费模型（未收录）",
-      "contextWindow": 131072,
-      "baseUrl": "https://openrouter.ai/api/v1",
-      "apiStyle": "openai-compatible",
-      "authRequired": false,
-      "authEnv": null,
-      "rateLimit": null,
-      "notes": "",
-      "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
-      "link": "https://openrouter.ai/models/arcee-ai%2Fvirtuoso-large"
     },
     {
       "id": "openrouter:baidu/ernie-4.5-vl-424b-a47b",
@@ -4498,7 +4477,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/baidu%2Fernie-4.5-vl-424b-a47b"
     },
     {
@@ -4519,7 +4498,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-1.6"
     },
     {
@@ -4540,7 +4519,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-1.6-flash"
     },
     {
@@ -4561,7 +4540,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-2-1-turbo"
     },
     {
@@ -4582,7 +4561,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-2.0-code"
     },
     {
@@ -4603,7 +4582,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-2.0-lite"
     },
     {
@@ -4624,7 +4603,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/bytedance-seed%2Fseed-2.0-mini"
     },
     {
@@ -4645,7 +4624,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/bytedance%2Fui-tars-1.5-7b"
     },
     {
@@ -4666,7 +4645,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/cognitivecomputations%2Fdolphin-mistral-24b-venice-edition"
     },
     {
@@ -4687,7 +4666,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/cohere%2Fcommand-a"
     },
     {
@@ -4708,7 +4687,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/cohere%2Fcommand-r-08-2024"
     },
     {
@@ -4729,7 +4708,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/cohere%2Fcommand-r-plus-08-2024"
     },
     {
@@ -4750,7 +4729,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/cohere%2Fcommand-r7b-12-2024"
     },
     {
@@ -4771,7 +4750,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/cohere%2Fnorth-mini-code%3Afree"
     },
     {
@@ -4792,7 +4771,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -4813,7 +4792,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-chat"
     },
     {
@@ -4834,7 +4813,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-chat-v3-0324"
     },
     {
@@ -4855,7 +4834,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-chat-v3.1"
     },
     {
@@ -4876,7 +4855,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-r1"
     },
     {
@@ -4897,7 +4876,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-r1-0528"
     },
     {
@@ -4918,7 +4897,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-r1-distill-llama-70b"
     },
     {
@@ -4960,7 +4939,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v3.1-terminus"
     },
     {
@@ -4981,7 +4960,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v3.2"
     },
     {
@@ -5002,7 +4981,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v3.2-exp"
     },
     {
@@ -5023,7 +5002,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-flash"
     },
     {
@@ -5044,8 +5023,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-flash-0731"
+    },
+    {
+      "id": "openrouter:deepseek/deepseek-v4-flash-0731:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "deepseek/deepseek-v4-flash-0731:batch",
+      "displayName": "DeepSeek: DeepSeek V4 Flash 0731 (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 1048576,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-flash-0731%3Abatch"
     },
     {
       "id": "openrouter:deepseek/deepseek-v4-flash-vision-exp",
@@ -5065,7 +5065,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-flash-vision-exp"
     },
     {
@@ -5086,7 +5086,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-pro"
     },
     {
@@ -5107,8 +5107,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-pro-0813"
+    },
+    {
+      "id": "openrouter:deepseek/deepseek-v4-pro-0813:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "deepseek/deepseek-v4-pro-0813:batch",
+      "displayName": "DeepSeek: DeepSeek V4 Pro 0813 (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 1048576,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/deepseek%2Fdeepseek-v4-pro-0813%3Abatch"
     },
     {
       "id": "openrouter:dots-studio/dots-3-note-preview:free",
@@ -5128,7 +5149,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/dots-studio%2Fdots-3-note-preview%3Afree"
     },
     {
@@ -5149,7 +5170,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-flash"
     },
     {
@@ -5170,7 +5191,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-flash-image"
     },
     {
@@ -5191,7 +5212,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-flash-lite"
     },
     {
@@ -5212,7 +5233,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-flash-lite%3Abatch"
     },
     {
@@ -5233,7 +5254,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-flash%3Abatch"
     },
     {
@@ -5254,7 +5275,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-pro"
     },
     {
@@ -5275,7 +5296,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-pro-preview"
     },
     {
@@ -5296,7 +5317,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-pro-preview-05-06"
     },
     {
@@ -5317,7 +5338,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-2.5-pro%3Abatch"
     },
     {
@@ -5338,7 +5359,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3-flash-preview"
     },
     {
@@ -5359,7 +5380,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3-flash-preview%3Abatch"
     },
     {
@@ -5380,7 +5401,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3-pro-image"
     },
     {
@@ -5401,7 +5422,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3-pro-image-preview"
     },
     {
@@ -5422,7 +5443,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-image"
     },
     {
@@ -5443,7 +5464,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-image-preview"
     },
     {
@@ -5464,7 +5485,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-lite"
     },
     {
@@ -5485,7 +5506,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-lite-image"
     },
     {
@@ -5506,7 +5527,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-lite-preview"
     },
     {
@@ -5527,7 +5548,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-flash-lite%3Abatch"
     },
     {
@@ -5548,7 +5569,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-pro-preview"
     },
     {
@@ -5569,7 +5590,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-pro-preview-customtools"
     },
     {
@@ -5590,7 +5611,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.1-pro-preview%3Abatch"
     },
     {
@@ -5611,7 +5632,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.5-flash"
     },
     {
@@ -5632,7 +5653,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.5-flash-lite"
     },
     {
@@ -5653,7 +5674,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.5-flash-lite%3Abatch"
     },
     {
@@ -5674,7 +5695,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.5-flash%3Abatch"
     },
     {
@@ -5695,7 +5716,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.6-flash"
     },
     {
@@ -5716,7 +5737,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.6-flash%3Abatch"
     },
     {
@@ -5737,7 +5758,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.7-flash"
     },
     {
@@ -5758,7 +5779,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemini-3.7-flash%3Abatch"
     },
     {
@@ -5779,7 +5800,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-2-27b-it"
     },
     {
@@ -5800,7 +5821,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-3-12b-it"
     },
     {
@@ -5821,7 +5842,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-3-27b-it"
     },
     {
@@ -5842,7 +5863,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-3-4b-it"
     },
     {
@@ -5863,7 +5884,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-4-26b-a4b-it"
     },
     {
@@ -5884,7 +5905,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-4-26b-a4b-it%3Afree"
     },
     {
@@ -5905,7 +5926,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -5926,8 +5947,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-4-31b-it"
+    },
+    {
+      "id": "openrouter:google/gemma-4-31b-it:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "google/gemma-4-31b-it:batch",
+      "displayName": "Google: Gemma 4 31B (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 262144,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/google%2Fgemma-4-31b-it%3Abatch"
     },
     {
       "id": "openrouter:google/gemma-4-31b-it:free",
@@ -5947,7 +5989,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Fgemma-4-31b-it%3Afree"
     },
     {
@@ -5968,7 +6010,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -5989,7 +6031,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Flyria-3-clip-preview"
     },
     {
@@ -6010,7 +6052,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/google%2Flyria-3-pro-preview"
     },
     {
@@ -6031,7 +6073,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/gryphe%2Fmythomax-l2-13b"
     },
     {
@@ -6052,7 +6094,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/ibm-granite%2Fgranite-4.0-h-micro"
     },
     {
@@ -6073,7 +6115,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/ibm-granite%2Fgranite-4.1-8b"
     },
     {
@@ -6094,7 +6136,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/inception%2Fmercury-2"
     },
     {
@@ -6115,7 +6157,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/inclusionai%2Fling-3.0-flash"
     },
     {
@@ -6136,7 +6178,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/inclusionai%2Fling-3.0-flash-fin%3Afree"
     },
     {
@@ -6157,7 +6199,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -6178,7 +6220,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/kwaipilot%2Fkat-coder-air-v2.5"
     },
     {
@@ -6199,7 +6241,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/kwaipilot%2Fkat-coder-pro-v2"
     },
     {
@@ -6220,7 +6262,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/kwaipilot%2Fkat-coder-pro-v2.5"
     },
     {
@@ -6241,7 +6283,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/liquid%2Flfm-2.5-2.6b%3Afree"
     },
     {
@@ -6262,7 +6304,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mancer%2Fweaver"
     },
     {
@@ -6283,7 +6325,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/meituan%2Flongcat-2.0"
     },
     {
@@ -6304,7 +6346,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-3.1-70b-instruct"
     },
     {
@@ -6325,7 +6367,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-3.1-8b-instruct"
     },
     {
@@ -6346,7 +6388,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-3.2-1b-instruct"
     },
     {
@@ -6367,7 +6409,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-3.2-3b-instruct"
     },
     {
@@ -6388,7 +6430,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-3.3-70b-instruct"
     },
     {
@@ -6409,7 +6451,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-4-maverick"
     },
     {
@@ -6430,7 +6472,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-4-scout"
     },
     {
@@ -6451,7 +6493,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/meta-llama%2Fllama-guard-4-12b"
     },
     {
@@ -6472,8 +6514,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/meta%2Fmuse-glimmer-30b"
+    },
+    {
+      "id": "openrouter:meta/muse-glimmer-30b:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "meta/muse-glimmer-30b:batch",
+      "displayName": "Meta: Muse Glimmer 30B (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 131072,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/meta%2Fmuse-glimmer-30b%3Abatch"
     },
     {
       "id": "openrouter:meta/muse-spark-1.1",
@@ -6493,7 +6556,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/meta%2Fmuse-spark-1.1"
     },
     {
@@ -6514,7 +6577,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/meta%2Fmuse-spark-1.2"
     },
     {
@@ -6535,7 +6598,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/meta%2Fmuse-spark-1.2-contributor"
     },
     {
@@ -6556,7 +6619,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/microsoft%2Fphi-4"
     },
     {
@@ -6577,7 +6640,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/microsoft%2Fwizardlm-2-8x22b"
     },
     {
@@ -6598,7 +6661,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-01"
     },
     {
@@ -6619,7 +6682,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m1"
     },
     {
@@ -6640,7 +6703,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2"
     },
     {
@@ -6661,7 +6724,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2-her"
     },
     {
@@ -6682,7 +6745,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2.1"
     },
     {
@@ -6703,7 +6766,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2.5"
     },
     {
@@ -6724,7 +6787,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2.7"
     },
     {
@@ -6745,7 +6808,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m2.7%3Afree"
     },
     {
@@ -6766,7 +6829,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m3"
     },
     {
@@ -6787,7 +6850,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m3%3Abatch"
     },
     {
@@ -6808,7 +6871,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/minimax%2Fminimax-m3%3Afree"
     },
     {
@@ -6829,7 +6892,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fcodestral-2508"
     },
     {
@@ -6850,7 +6913,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fcodestral-2508%3Abatch"
     },
     {
@@ -6871,7 +6934,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fdevstral-2512"
     },
     {
@@ -6892,7 +6955,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fministral-14b-2512"
     },
     {
@@ -6913,7 +6976,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fministral-3b-2512"
     },
     {
@@ -6934,7 +6997,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fministral-8b-2512"
     },
     {
@@ -6955,7 +7018,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fministral-8b-2512%3Abatch"
     },
     {
@@ -6976,7 +7039,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-large"
     },
     {
@@ -6997,7 +7060,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-large-2407"
     },
     {
@@ -7018,7 +7081,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-large-2512"
     },
     {
@@ -7039,7 +7102,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-large-2512%3Abatch"
     },
     {
@@ -7060,7 +7123,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-medium-3"
     },
     {
@@ -7081,7 +7144,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-medium-3-5"
     },
     {
@@ -7102,7 +7165,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-medium-3-5%3Abatch"
     },
     {
@@ -7123,7 +7186,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-medium-3.1"
     },
     {
@@ -7144,7 +7207,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-medium-3.1%3Abatch"
     },
     {
@@ -7165,7 +7228,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-nemo"
     },
     {
@@ -7186,7 +7249,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-saba"
     },
     {
@@ -7207,7 +7270,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-small-24b-instruct-2501"
     },
     {
@@ -7228,7 +7291,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-small-2603"
     },
     {
@@ -7249,7 +7312,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-small-2603%3Abatch"
     },
     {
@@ -7270,7 +7333,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-small-3.1-24b-instruct"
     },
     {
@@ -7291,7 +7354,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmistral-small-3.2-24b-instruct"
     },
     {
@@ -7312,7 +7375,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/mistralai%2Fmixtral-8x22b-instruct"
     },
     {
@@ -7325,7 +7388,7 @@
       "free": false,
       "freeKind": "paid",
       "freeDetail": "付费模型（未收录）",
-      "contextWindow": 32000,
+      "contextWindow": 32768,
       "baseUrl": "https://openrouter.ai/api/v1",
       "apiStyle": "openai-compatible",
       "authRequired": false,
@@ -7333,7 +7396,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/mistralai%2Fvoxtral-small-24b-2507"
     },
     {
@@ -7354,7 +7417,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2"
     },
     {
@@ -7375,7 +7438,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2-0905"
     },
     {
@@ -7396,7 +7459,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2-thinking"
     },
     {
@@ -7417,7 +7480,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2.5"
     },
     {
@@ -7438,7 +7501,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2.6"
     },
     {
@@ -7459,7 +7522,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k2.7-code"
     },
     {
@@ -7480,8 +7543,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k3"
+    },
+    {
+      "id": "openrouter:moonshotai/kimi-k3:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "moonshotai/kimi-k3:batch",
+      "displayName": "MoonshotAI: Kimi K3 (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 1048576,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/moonshotai%2Fkimi-k3%3Abatch"
     },
     {
       "id": "openrouter:morph/morph-v3-fast",
@@ -7501,7 +7585,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/morph%2Fmorph-v3-fast"
     },
     {
@@ -7522,7 +7606,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/morph%2Fmorph-v3-large"
     },
     {
@@ -7543,7 +7627,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nex-agi%2Fnex-n2-mini"
     },
     {
@@ -7564,7 +7648,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nex-agi%2Fnex-n2-pro"
     },
     {
@@ -7585,7 +7669,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/nousresearch%2Fhermes-3-llama-3.1-405b"
     },
     {
@@ -7606,7 +7690,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/nousresearch%2Fhermes-3-llama-3.1-70b"
     },
     {
@@ -7627,7 +7711,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/nousresearch%2Fhermes-4-405b"
     },
     {
@@ -7648,7 +7732,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/nousresearch%2Fhermes-4-70b"
     },
     {
@@ -7669,7 +7753,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-nano-30b-a3b"
     },
     {
@@ -7690,7 +7774,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -7711,7 +7795,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-nano-omni-30b-a3b-reasoning%3Afree"
     },
     {
@@ -7732,7 +7816,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-super-120b-a12b"
     },
     {
@@ -7753,7 +7837,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-super-120b-a12b%3Afree"
     },
     {
@@ -7774,7 +7858,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -7795,7 +7879,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-ultra-550b-a55b"
     },
     {
@@ -7816,7 +7900,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-ultra-550b-a55b%3Abatch"
     },
     {
@@ -7837,7 +7921,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3-ultra-550b-a55b%3Afree"
     },
     {
@@ -7858,7 +7942,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3.5-content-safety%3Afree"
     },
     {
@@ -7879,7 +7963,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3.5-lightning"
     },
     {
@@ -7900,7 +7984,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/nvidia%2Fnemotron-3.5-lightning%3Afree"
     },
     {
@@ -7921,7 +8005,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text + Image",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -7942,7 +8026,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -7963,7 +8047,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-3.5-turbo"
     },
     {
@@ -7984,7 +8068,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-3.5-turbo-0613"
     },
     {
@@ -8005,7 +8089,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-3.5-turbo-16k"
     },
     {
@@ -8026,7 +8110,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-3.5-turbo-instruct"
     },
     {
@@ -8047,7 +8131,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4"
     },
     {
@@ -8068,7 +8152,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4-turbo"
     },
     {
@@ -8089,7 +8173,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4-turbo-preview"
     },
     {
@@ -8110,7 +8194,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4.1"
     },
     {
@@ -8131,7 +8215,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4.1-mini"
     },
     {
@@ -8152,7 +8236,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4.1-nano"
     },
     {
@@ -8173,7 +8257,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o"
     },
     {
@@ -8194,7 +8278,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o-2024-05-13"
     },
     {
@@ -8215,7 +8299,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o-2024-08-06"
     },
     {
@@ -8236,7 +8320,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o-2024-11-20"
     },
     {
@@ -8257,7 +8341,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o-mini"
     },
     {
@@ -8278,7 +8362,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-4o-mini-2024-07-18"
     },
     {
@@ -8299,7 +8383,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5"
     },
     {
@@ -8320,7 +8404,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5-image"
     },
     {
@@ -8341,7 +8425,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5-image-mini"
     },
     {
@@ -8362,7 +8446,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5-mini"
     },
     {
@@ -8383,7 +8467,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5-nano"
     },
     {
@@ -8404,7 +8488,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5-pro"
     },
     {
@@ -8425,7 +8509,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.1"
     },
     {
@@ -8446,7 +8530,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.1-codex"
     },
     {
@@ -8467,7 +8551,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.1-codex-max"
     },
     {
@@ -8488,7 +8572,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.1-codex-mini"
     },
     {
@@ -8509,7 +8593,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.2"
     },
     {
@@ -8530,7 +8614,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.2-chat"
     },
     {
@@ -8551,7 +8635,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.2-codex"
     },
     {
@@ -8572,7 +8656,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.2-pro"
     },
     {
@@ -8593,7 +8677,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.3-codex"
     },
     {
@@ -8614,7 +8698,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.4"
     },
     {
@@ -8635,7 +8719,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.4-image-2"
     },
     {
@@ -8656,7 +8740,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.4-mini"
     },
     {
@@ -8677,7 +8761,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.4-nano"
     },
     {
@@ -8698,7 +8782,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.4-pro"
     },
     {
@@ -8719,7 +8803,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.5"
     },
     {
@@ -8740,7 +8824,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.5-pro"
     },
     {
@@ -8761,7 +8845,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-luna"
     },
     {
@@ -8782,7 +8866,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-luna-pro"
     },
     {
@@ -8803,7 +8887,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-sol"
     },
     {
@@ -8824,7 +8908,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-sol-pro"
     },
     {
@@ -8845,7 +8929,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-terra"
     },
     {
@@ -8866,7 +8950,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-5.6-terra-pro"
     },
     {
@@ -8887,7 +8971,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-audio"
     },
     {
@@ -8908,7 +8992,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-audio-mini"
     },
     {
@@ -8929,7 +9013,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-chat-latest"
     },
     {
@@ -8950,8 +9034,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-oss-120b"
+    },
+    {
+      "id": "openrouter:openai/gpt-oss-120b:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "openai/gpt-oss-120b:batch",
+      "displayName": "OpenAI: gpt-oss-120b (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 131072,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
+      "link": "https://openrouter.ai/models/openai%2Fgpt-oss-120b%3Abatch"
     },
     {
       "id": "openrouter:openai/gpt-oss-20b",
@@ -8971,8 +9076,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-oss-20b"
+    },
+    {
+      "id": "openrouter:openai/gpt-oss-20b:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "openai/gpt-oss-20b:batch",
+      "displayName": "OpenAI: gpt-oss-20b (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 131072,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
+      "link": "https://openrouter.ai/models/openai%2Fgpt-oss-20b%3Abatch"
     },
     {
       "id": "community:openrouter:openai/gpt-oss-20b:free",
@@ -8992,7 +9118,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -9013,7 +9139,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openai%2Fgpt-oss-safeguard-20b"
     },
     {
@@ -9034,7 +9160,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo1"
     },
     {
@@ -9055,7 +9181,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo1-pro"
     },
     {
@@ -9076,7 +9202,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo3"
     },
     {
@@ -9097,7 +9223,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo3-mini"
     },
     {
@@ -9118,7 +9244,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo3-mini-high"
     },
     {
@@ -9139,7 +9265,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo3-pro"
     },
     {
@@ -9160,7 +9286,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo4-mini"
     },
     {
@@ -9181,7 +9307,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openai%2Fo4-mini-high"
     },
     {
@@ -9202,7 +9328,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/openrouter%2Fauto"
     },
     {
@@ -9223,7 +9349,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openrouter%2Fauto-beta"
     },
     {
@@ -9244,7 +9370,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openrouter%2Fbodybuilder"
     },
     {
@@ -9265,7 +9391,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/openrouter%2Ffree"
     },
     {
@@ -9286,7 +9412,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openrouter%2Ffusion"
     },
     {
@@ -9307,7 +9433,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/openrouter%2Fpareto-code"
     },
     {
@@ -9328,7 +9454,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/perceptron%2Fperceptron-mk1"
     },
     {
@@ -9349,7 +9475,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/perplexity%2Fsonar"
     },
     {
@@ -9370,7 +9496,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/perplexity%2Fsonar-deep-research"
     },
     {
@@ -9391,7 +9517,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/perplexity%2Fsonar-pro"
     },
     {
@@ -9412,7 +9538,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/perplexity%2Fsonar-pro-search"
     },
     {
@@ -9433,7 +9559,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/perplexity%2Fsonar-reasoning-pro"
     },
     {
@@ -9454,7 +9580,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/poolside%2Flaguna-s-2.1"
     },
     {
@@ -9475,7 +9601,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/poolside%2Flaguna-s-2.1%3Afree"
     },
     {
@@ -9496,7 +9622,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -9517,7 +9643,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/poolside%2Flaguna-xs-2.1"
     },
     {
@@ -9538,7 +9664,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/poolside%2Flaguna-xs-2.1%3Afree"
     },
     {
@@ -9559,7 +9685,7 @@
       "rateLimit": "20 RPM, 50 RPD",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://openrouter.ai/keys"
     },
     {
@@ -9580,7 +9706,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen-2.5-72b-instruct"
     },
     {
@@ -9601,7 +9727,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen-2.5-7b-instruct"
     },
     {
@@ -9622,7 +9748,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen-2.5-coder-32b-instruct"
     },
     {
@@ -9643,7 +9769,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen-plus"
     },
     {
@@ -9664,7 +9790,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen-plus-2025-07-28"
     },
     {
@@ -9685,7 +9811,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen2.5-vl-72b-instruct"
     },
     {
@@ -9706,7 +9832,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-14b"
     },
     {
@@ -9727,7 +9853,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-235b-a22b"
     },
     {
@@ -9748,7 +9874,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-235b-a22b-2507"
     },
     {
@@ -9769,7 +9895,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-235b-a22b-thinking-2507"
     },
     {
@@ -9790,7 +9916,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-30b-a3b"
     },
     {
@@ -9811,7 +9937,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-30b-a3b-instruct-2507"
     },
     {
@@ -9832,7 +9958,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-30b-a3b-thinking-2507"
     },
     {
@@ -9853,7 +9979,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-32b"
     },
     {
@@ -9874,7 +10000,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-8b"
     },
     {
@@ -9895,7 +10021,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-coder"
     },
     {
@@ -9916,7 +10042,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-coder-30b-a3b-instruct"
     },
     {
@@ -9937,7 +10063,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-coder-flash"
     },
     {
@@ -9958,7 +10084,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-coder-next"
     },
     {
@@ -9979,7 +10105,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-coder-plus"
     },
     {
@@ -10000,7 +10126,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-max"
     },
     {
@@ -10021,7 +10147,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-max-thinking"
     },
     {
@@ -10042,7 +10168,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-next-80b-a3b-instruct"
     },
     {
@@ -10063,7 +10189,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-next-80b-a3b-thinking"
     },
     {
@@ -10084,7 +10210,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-235b-a22b-instruct"
     },
     {
@@ -10105,7 +10231,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-235b-a22b-thinking"
     },
     {
@@ -10126,7 +10252,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-30b-a3b-instruct"
     },
     {
@@ -10147,7 +10273,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-30b-a3b-thinking"
     },
     {
@@ -10168,7 +10294,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-32b-instruct"
     },
     {
@@ -10189,7 +10315,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-8b-instruct"
     },
     {
@@ -10210,7 +10336,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3-vl-8b-thinking"
     },
     {
@@ -10231,7 +10357,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-122b-a10b"
     },
     {
@@ -10252,7 +10378,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-27b"
     },
     {
@@ -10273,7 +10399,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-35b-a3b"
     },
     {
@@ -10294,7 +10420,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-397b-a17b"
     },
     {
@@ -10315,8 +10441,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-9b"
+    },
+    {
+      "id": "openrouter:qwen/qwen3.5-9b:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "qwen/qwen3.5-9b:batch",
+      "displayName": "Qwen: Qwen3.5-9B (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 262144,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
+      "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-9b%3Abatch"
     },
     {
       "id": "openrouter:qwen/qwen3.5-flash-02-23",
@@ -10336,7 +10483,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-flash-02-23"
     },
     {
@@ -10357,7 +10504,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-plus-02-15"
     },
     {
@@ -10378,7 +10525,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.5-plus-20260420"
     },
     {
@@ -10399,7 +10546,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.6-27b"
     },
     {
@@ -10420,7 +10567,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.6-35b-a3b"
     },
     {
@@ -10441,7 +10588,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.6-flash"
     },
     {
@@ -10462,7 +10609,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.6-max-preview"
     },
     {
@@ -10483,7 +10630,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.6-plus"
     },
     {
@@ -10504,7 +10651,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.7-flash"
     },
     {
@@ -10525,7 +10672,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.7-max"
     },
     {
@@ -10546,7 +10693,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.7-plus"
     },
     {
@@ -10567,8 +10714,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.8-2.4t-a95b"
+    },
+    {
+      "id": "openrouter:qwen/qwen3.8-2.4t-a95b:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "qwen/qwen3.8-2.4t-a95b:batch",
+      "displayName": "Qwen: Qwen3.8 2.4T A95B (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 1010000,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/qwen%2Fqwen3.8-2.4t-a95b%3Abatch"
     },
     {
       "id": "openrouter:qwen/qwen3.8-27b",
@@ -10588,7 +10756,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.8-27b"
     },
     {
@@ -10609,7 +10777,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.8-flash"
     },
     {
@@ -10630,7 +10798,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/qwen%2Fqwen3.8-max"
     },
     {
@@ -10651,7 +10819,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/rekaai%2Freka-edge"
     },
     {
@@ -10672,7 +10840,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/rekaai%2Freka-flash-3"
     },
     {
@@ -10693,7 +10861,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/relace%2Frelace-apply-3"
     },
     {
@@ -10714,7 +10882,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/relace%2Frelace-search"
     },
     {
@@ -10735,7 +10903,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/sakana%2Ffugu-ultra"
     },
     {
@@ -10756,7 +10924,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/sakana%2Fsakana-namazu"
     },
     {
@@ -10777,7 +10945,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/sao10k%2Fl3-lunaris-8b"
     },
     {
@@ -10798,7 +10966,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/sao10k%2Fl3.1-euryale-70b"
     },
     {
@@ -10819,7 +10987,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/sao10k%2Fl3.3-euryale-70b"
     },
     {
@@ -10840,7 +11008,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/stepfun%2Fstep-3.5-flash"
     },
     {
@@ -10861,7 +11029,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/stepfun%2Fstep-3.7-flash"
     },
     {
@@ -10882,7 +11050,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/tencent%2Fhunyuan-a13b-instruct"
     },
     {
@@ -10903,7 +11071,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy-mt2-1.8b"
     },
     {
@@ -10924,7 +11092,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy-mt2-30b-a3b"
     },
     {
@@ -10945,7 +11113,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy-mt2-7b"
     },
     {
@@ -10966,7 +11134,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy3"
     },
     {
@@ -10987,7 +11155,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy3-preview"
     },
     {
@@ -11008,7 +11176,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.586Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/tencent%2Fhy4-preview"
     },
     {
@@ -11029,7 +11197,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/thedrummer%2Fcydonia-24b-v4.1"
     },
     {
@@ -11050,7 +11218,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/thedrummer%2Fskyfall-36b-v2"
     },
     {
@@ -11071,7 +11239,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/thedrummer%2Funslopnemo-12b"
     },
     {
@@ -11092,7 +11260,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/thinkingmachines%2Finkling"
     },
     {
@@ -11113,8 +11281,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/thinkingmachines%2Finkling-small"
+    },
+    {
+      "id": "openrouter:thinkingmachines/inkling-small:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "thinkingmachines/inkling-small:batch",
+      "displayName": "Thinking Machines: Inkling Small (batch)",
+      "category": "reasoning",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 524288,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
+      "link": "https://openrouter.ai/models/thinkingmachines%2Finkling-small%3Abatch"
     },
     {
       "id": "openrouter:thinkingmachines/inkling-small:free",
@@ -11134,7 +11323,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/thinkingmachines%2Finkling-small%3Afree"
     },
     {
@@ -11155,7 +11344,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/thinkingmachines%2Finkling%3Abatch"
     },
     {
@@ -11176,7 +11365,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/thinkingmachines%2Finkling%3Afree"
     },
     {
@@ -11197,7 +11386,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.589Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/undi95%2Fremm-slerp-l2-13b"
     },
     {
@@ -11218,7 +11407,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/upstage%2Fsolar-pro-3"
     },
     {
@@ -11239,7 +11428,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/upstage%2Fsolar-pro4"
     },
     {
@@ -11260,7 +11449,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/writer%2Fpalmyra-x5"
     },
     {
@@ -11281,7 +11470,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-4.20"
     },
     {
@@ -11302,7 +11491,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-4.20-multi-agent"
     },
     {
@@ -11323,7 +11512,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-4.3"
     },
     {
@@ -11344,7 +11533,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-4.5"
     },
     {
@@ -11365,7 +11554,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-4.6"
     },
     {
@@ -11386,7 +11575,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/x-ai%2Fgrok-build-0.1"
     },
     {
@@ -11407,7 +11596,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/xiaomi%2Fmimo-v2.5"
     },
     {
@@ -11428,7 +11617,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/xiaomi%2Fmimo-v2.5-pro"
     },
     {
@@ -11449,7 +11638,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.5"
     },
     {
@@ -11470,7 +11659,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.707Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.5-air"
     },
     {
@@ -11491,7 +11680,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.5v"
     },
     {
@@ -11512,7 +11701,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.6"
     },
     {
@@ -11533,7 +11722,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.6v"
     },
     {
@@ -11554,7 +11743,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.7"
     },
     {
@@ -11575,7 +11764,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-4.7-flash"
     },
     {
@@ -11596,7 +11785,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.588Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5"
     },
     {
@@ -11617,7 +11806,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.706Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5-turbo"
     },
     {
@@ -11638,7 +11827,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5.1"
     },
     {
@@ -11659,7 +11848,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5.2"
     },
     {
@@ -11680,7 +11869,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5.2%3Afree"
     },
     {
@@ -11693,7 +11882,7 @@
       "free": false,
       "freeKind": "paid",
       "freeDetail": "付费模型（未收录）",
-      "contextWindow": 1048576,
+      "contextWindow": 1310720,
       "baseUrl": "https://openrouter.ai/api/v1",
       "apiStyle": "openai-compatible",
       "authRequired": false,
@@ -11701,7 +11890,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5.3"
     },
     {
@@ -11722,8 +11911,29 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5.3-flash"
+    },
+    {
+      "id": "openrouter:z-ai/glm-5.3-flash:batch",
+      "platform": "openrouter",
+      "platformLabel": "OpenRouter",
+      "modelId": "z-ai/glm-5.3-flash:batch",
+      "displayName": "Z.ai: GLM 5.3 Flash (batch)",
+      "category": "chat",
+      "free": false,
+      "freeKind": "paid",
+      "freeDetail": "付费模型（未收录）",
+      "contextWindow": 1048575,
+      "baseUrl": "https://openrouter.ai/api/v1",
+      "apiStyle": "openai-compatible",
+      "authRequired": false,
+      "authEnv": null,
+      "rateLimit": null,
+      "notes": "",
+      "source": "openrouter-live",
+      "verifiedAt": "2026-08-29T08:19:43.704Z",
+      "link": "https://openrouter.ai/models/z-ai%2Fglm-5.3-flash%3Abatch"
     },
     {
       "id": "openrouter:z-ai/glm-5v-turbo",
@@ -11743,7 +11953,7 @@
       "rateLimit": null,
       "notes": "",
       "source": "openrouter-live",
-      "verifiedAt": "2026-08-28T13:24:51.587Z",
+      "verifiedAt": "2026-08-29T08:19:43.705Z",
       "link": "https://openrouter.ai/models/z-ai%2Fglm-5v-turbo"
     },
     {
@@ -11764,7 +11974,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11785,7 +11995,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11806,7 +12016,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11827,7 +12037,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11848,7 +12058,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11869,7 +12079,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11890,7 +12100,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text + Vision",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11911,7 +12121,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11932,7 +12142,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text (code)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11953,7 +12163,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11974,7 +12184,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -11995,7 +12205,7 @@
       "rateLimit": "2 RPM (anonymous)",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/"
     },
     {
@@ -12016,7 +12226,7 @@
       "rateLimit": "1,000 RPM, 50,000 TPM",
       "notes": "Text",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://cloud.siliconflow.cn/account/ak"
     },
     {
@@ -12037,7 +12247,7 @@
       "rateLimit": "1 concurrent request",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://open.bigmodel.cn/usercenter/apikeys"
     },
     {
@@ -12058,7 +12268,7 @@
       "rateLimit": "1 concurrent request",
       "notes": "Multimodal",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://open.bigmodel.cn/usercenter/apikeys"
     },
     {
@@ -12079,7 +12289,7 @@
       "rateLimit": "1 concurrent request",
       "notes": "Text (reasoning)",
       "source": "community-list",
-      "verifiedAt": "2026-08-28T13:24:52.678Z",
+      "verifiedAt": "2026-08-29T08:19:44.853Z",
       "link": "https://open.bigmodel.cn/usercenter/apikeys"
     },
     {
