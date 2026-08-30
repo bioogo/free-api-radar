@@ -1,14 +1,14 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-08-29T08:19:44.867Z（在线拉取）
-> 共收录 **158** 条免费条目 / **589** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-08-30T07:33:14.591Z（在线拉取）
+> 共收录 **157** 条免费条目 / **588** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 64 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 63 |  |
 | OpenRouter | ok | 396 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
@@ -276,7 +276,6 @@
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | deepseek-v4-flash-free（`deepseek-v4-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| hy3-free（`hy3-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | laguna-s-2.1-free（`laguna-s-2.1-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | ling-3.0-flash-fin-free（`ling-3.0-flash-fin-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.5-free（`mimo-v2.5-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
