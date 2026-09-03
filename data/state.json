@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-09-02T06:29:01.262Z",
+  "lastRunAt": "2026-09-03T06:32:35.397Z",
   "mode": "online",
   "totals": {
-    "entries": 614,
-    "free": 157,
+    "entries": 619,
+    "free": 158,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -23,9 +23,9 @@
       "community:nvidia-nim": 12,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 64,
+      "opencode": 66,
       "community:openrouter": 12,
-      "openrouter": 422,
+      "openrouter": 425,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -52,7 +52,7 @@
       "community:nvidia-nim": 12,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 7,
+      "opencode": 8,
       "community:openrouter": 12,
       "openrouter": 22,
       "community:ovhcloud-ai-endpoints": 12,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 64,
-      "durationMs": 177
+      "count": 66,
+      "durationMs": 136
     },
     "openrouter": {
       "status": "ok",
-      "count": 421,
-      "durationMs": 84
+      "count": 424,
+      "durationMs": 53
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,13 +84,13 @@
     "github-models": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1230,
+      "durationMs": 1088,
       "skipped": "目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点"
     },
     "google-ai-studio": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请）"
     },
     "zhipu": {
@@ -114,7 +114,7 @@
     "nvidia-nim": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 NVIDIA_API_KEY（模型目录接口需要密钥）"
     },
     "groq": {
@@ -168,12 +168,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 1052
+      "durationMs": 74
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 270,
+      "durationMs": 51,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
