@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-09-03T06:32:35.397Z（在线拉取）
-> 共收录 **158** 条免费条目 / **619** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-09-04T06:35:00.229Z（在线拉取）
+> 共收录 **158** 条免费条目 / **622** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 66 |  |
-| OpenRouter | ok | 424 |  |
+| OpenRouter | ok | 427 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
 | Google AI Studio (Gemini) | skipped | 0 | 缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请） |

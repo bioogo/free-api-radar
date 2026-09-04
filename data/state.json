@@ -1,8 +1,8 @@
 {
-  "lastRunAt": "2026-09-03T06:32:35.397Z",
+  "lastRunAt": "2026-09-04T06:35:00.229Z",
   "mode": "online",
   "totals": {
-    "entries": 619,
+    "entries": 622,
     "free": 158,
     "platforms": 27,
     "byPlatform": {
@@ -25,7 +25,7 @@
       "community:ollama-cloud": 10,
       "opencode": 66,
       "community:openrouter": 12,
-      "openrouter": 425,
+      "openrouter": 428,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 66,
-      "durationMs": 136
+      "durationMs": 211
     },
     "openrouter": {
       "status": "ok",
-      "count": 424,
-      "durationMs": 53
+      "count": 427,
+      "durationMs": 120
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1088,
+      "durationMs": 1431,
       "skipped": "目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点"
     },
     "google-ai-studio": {
@@ -114,7 +114,7 @@
     "nvidia-nim": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 NVIDIA_API_KEY（模型目录接口需要密钥）"
     },
     "groq": {
@@ -168,12 +168,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 74
+      "durationMs": 220
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 51,
+      "durationMs": 163,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
