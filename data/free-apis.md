@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-09-04T06:35:00.229Z（在线拉取）
-> 共收录 **158** 条免费条目 / **622** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-09-05T06:21:24.317Z（在线拉取）
+> 共收录 **158** 条免费条目 / **630** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 66 |  |
-| OpenRouter | ok | 427 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 70 |  |
+| OpenRouter | ok | 431 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
 | Google AI Studio (Gemini) | skipped | 0 | 缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请） |
@@ -276,7 +276,6 @@
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | deepseek-v4-flash-free（`deepseek-v4-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| laguna-s-2.1-free（`laguna-s-2.1-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | ling-3.0-flash-fin-free（`ling-3.0-flash-fin-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.5-free（`mimo-v2.5-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | muse-spark-1.2-contributor-free（`muse-spark-1.2-contributor-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
@@ -295,7 +294,8 @@
 | Google: Gemma 4 31B (free)（`google/gemma-4-31b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Google: Lyria 3 Clip Preview（`google/lyria-3-clip-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | Google: Lyria 3 Pro Preview（`google/lyria-3-pro-preview`） | chat | permanent | 1048576 | 无需 Key |  |
-| Ling 3.0 Flash Fin (free)（`inclusionai/ling-3.0-flash-fin:free`） | chat | permanent | 262144 | 无需 Key |  |
+| inclusionAI: Ling 3.0 Flash Fin (free)（`inclusionai/ling-3.0-flash-fin:free`） | chat | permanent | 262144 | 无需 Key |  |
+| inclusionAI: Ling 3.0 Flash Sante (free)（`inclusionai/ling-3.0-flash-sante:free`） | chat | permanent | 262144 | 无需 Key |  |
 | LiquidAI: LFM2.5-2.6B (free)（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 无需 Key |  |
 | MiniMax: MiniMax M2.7 (free)（`minimax/minimax-m2.7:free`） | chat | permanent | 196608 | 无需 Key |  |
 | MiniMax: MiniMax M3 (free)（`minimax/minimax-m3:free`） | chat | permanent | 1048576 | 无需 Key |  |
