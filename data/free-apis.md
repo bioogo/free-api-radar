@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-09-06T06:32:46.281Z（在线拉取）
-> 共收录 **158** 条免费条目 / **630** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-09-07T06:40:22.973Z（在线拉取）
+> 共收录 **157** 条免费条目 / **629** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 70 |  |
-| OpenRouter | ok | 431 |  |
+| OpenRouter | ok | 430 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
 | Google AI Studio (Gemini) | skipped | 0 | 缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请） |
@@ -309,7 +309,6 @@
 | Poolside: Laguna XS 2.1 (free)（`poolside/laguna-xs-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Thinking Machines: Inkling Small (free)（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | Thinking Machines: Inkling (free)（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
-| Z.ai: GLM 5.2 (free)（`z-ai/glm-5.2:free`） | chat | permanent | 256000 | 无需 Key |  |
 
 ### 阶跃星辰 Step（stepfun）
 
