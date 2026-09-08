@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-09-07T06:40:22.973Z",
+  "lastRunAt": "2026-09-08T06:34:46.084Z",
   "mode": "online",
   "totals": {
-    "entries": 629,
-    "free": 157,
+    "entries": 627,
+    "free": 155,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -25,7 +25,7 @@
       "community:ollama-cloud": 10,
       "opencode": 70,
       "community:openrouter": 12,
-      "openrouter": 431,
+      "openrouter": 429,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -54,7 +54,7 @@
       "community:ollama-cloud": 10,
       "opencode": 7,
       "community:openrouter": 12,
-      "openrouter": 22,
+      "openrouter": 20,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 70,
-      "durationMs": 128
+      "durationMs": 196
     },
     "openrouter": {
       "status": "ok",
-      "count": 430,
-      "durationMs": 63
+      "count": 428,
+      "durationMs": 86
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1086,
+      "durationMs": 1289,
       "skipped": "目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点"
     },
     "google-ai-studio": {
@@ -168,12 +168,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 84
+      "durationMs": 133
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 97,
+      "durationMs": 116,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
