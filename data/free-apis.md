@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-09-17T06:48:16.409Z（在线拉取）
-> 共收录 **160** 条免费条目 / **644** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-09-18T06:44:12.055Z（在线拉取）
+> 共收录 **161** 条免费条目 / **645** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 71 |  |
-| OpenRouter | ok | 444 |  |
+| OpenRouter | ok | 445 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | skipped | 0 | 目录端点返回 404（可能已变动或需要登录态），请核对 https://models.github.ai 的当前端点 |
 | Google AI Studio (Gemini) | skipped | 0 | 缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请） |
@@ -289,6 +289,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Cohere: North Mini Code (free)（`cohere/north-mini-code:free`） | code | permanent | 256000 | 无需 Key |  |
 | DeepSeek R1 (free)（`deepseek/deepseek-r1:free`） | reasoning | permanent | 163840 | 无需 Key | 种子数据；refresh 时会被 OpenRouter 实时目录覆盖 |
+| DeepSeek: DeepSeek V4 Flash 0731 (free)（`deepseek/deepseek-v4-flash-0731:free`） | chat | permanent | 1048576 | 无需 Key |  |
 | Dots Studio: Dots3-Note Preview (free)（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 512000 | 无需 Key |  |
 | Google: Gemma 4 26B A4B  (free)（`google/gemma-4-26b-a4b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Google: Gemma 4 31B (free)（`google/gemma-4-31b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
@@ -308,7 +309,7 @@
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
 | Poolside: Laguna S 2.1 (free)（`poolside/laguna-s-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Poolside: Laguna XS 2.1 (free)（`poolside/laguna-xs-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
-| Union Alpha（`stealth/union-alpha`） | chat | permanent | 262144 | 无需 Key |  |
+| Qwen: Qwen3.8 27B (free)（`qwen/qwen3.8-27b:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Thinking Machines: Inkling Small (free)（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | Thinking Machines: Inkling (free)（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | Z.ai: GLM 5.2 (free)（`z-ai/glm-5.2:free`） | chat | permanent | 32768 | 无需 Key |  |
