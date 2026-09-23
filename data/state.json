@@ -1,8 +1,8 @@
 {
-  "lastRunAt": "2026-09-22T06:53:14.014Z",
+  "lastRunAt": "2026-09-23T06:49:10.992Z",
   "mode": "online",
   "totals": {
-    "entries": 650,
+    "entries": 662,
     "free": 162,
     "platforms": 27,
     "byPlatform": {
@@ -23,9 +23,9 @@
       "community:nvidia-nim": 12,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 76,
+      "opencode": 79,
       "community:openrouter": 12,
-      "openrouter": 446,
+      "openrouter": 455,
       "community:ovhcloud-ai-endpoints": 12,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -67,24 +67,24 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 76,
-      "durationMs": 147
+      "count": 79,
+      "durationMs": 170
     },
     "openrouter": {
       "status": "ok",
-      "count": 445,
-      "durationMs": 116
+      "count": 454,
+      "durationMs": 56
     },
     "siliconflow": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥）"
     },
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1414
+      "durationMs": 1548
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -95,7 +95,7 @@
     "zhipu": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 BIGMODEL_API_KEY"
     },
     "dashscope": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 141
+      "durationMs": 115
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 85,
+      "durationMs": 111,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
