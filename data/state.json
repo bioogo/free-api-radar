@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-09-26T06:43:01.381Z",
+  "lastRunAt": "2026-09-27T07:13:01.905Z",
   "mode": "online",
   "totals": {
-    "entries": 668,
-    "free": 160,
+    "entries": 669,
+    "free": 161,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -23,7 +23,7 @@
       "community:nvidia-nim": 12,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 81,
+      "opencode": 82,
       "community:openrouter": 12,
       "openrouter": 459,
       "community:ovhcloud-ai-endpoints": 12,
@@ -52,7 +52,7 @@
       "community:nvidia-nim": 12,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 10,
+      "opencode": 11,
       "community:openrouter": 12,
       "openrouter": 22,
       "community:ovhcloud-ai-endpoints": 12,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 81,
-      "durationMs": 126
+      "count": 82,
+      "durationMs": 181
     },
     "openrouter": {
       "status": "ok",
       "count": 458,
-      "durationMs": 84
+      "durationMs": 76
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1353
+      "durationMs": 1537
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -95,7 +95,7 @@
     "zhipu": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 BIGMODEL_API_KEY"
     },
     "dashscope": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 101
+      "durationMs": 113
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 80,
+      "durationMs": 103,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
