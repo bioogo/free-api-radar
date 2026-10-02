@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-10-01T07:52:03.825Z（在线拉取）
-> 共收录 **160** 条免费条目 / **675** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-10-02T07:34:58.085Z（在线拉取）
+> 共收录 **162** 条免费条目 / **678** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 84 |  |
-| OpenRouter | ok | 462 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 85 |  |
+| OpenRouter | ok | 464 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -277,6 +277,7 @@
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | deepseek-v4-flash-free（`deepseek-v4-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| fledge-alpha-free（`fledge-alpha-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | jev-1.13-free（`jev-1.13-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | ling-3.0-flash-fin-free（`ling-3.0-flash-fin-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | longcat-2.5-preview-free（`longcat-2.5-preview-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
@@ -292,6 +293,7 @@
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
+| Apodex: Apodex 1.1 Mini (free)（`apodex/apodex-1.1-mini:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Cohere: North Mini Code (free)（`cohere/north-mini-code:free`） | code | permanent | 256000 | 无需 Key |  |
 | DeepSeek R1 (free)（`deepseek/deepseek-r1:free`） | reasoning | permanent | 163840 | 无需 Key | 种子数据；refresh 时会被 OpenRouter 实时目录覆盖 |
 | Dots Studio: Dots3-Note Preview (free)（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 512000 | 无需 Key |  |
