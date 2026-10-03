@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-10-02T07:34:58.085Z（在线拉取）
-> 共收录 **162** 条免费条目 / **678** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-10-03T07:09:05.603Z（在线拉取）
+> 共收录 **164** 条免费条目 / **681** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 85 |  |
-| OpenRouter | ok | 464 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 86 |  |
+| OpenRouter | ok | 466 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -280,6 +280,7 @@
 | fledge-alpha-free（`fledge-alpha-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | jev-1.13-free（`jev-1.13-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | ling-3.0-flash-fin-free（`ling-3.0-flash-fin-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| ling-3.1-flash-free（`ling-3.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | longcat-2.5-preview-free（`longcat-2.5-preview-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.5-free（`mimo-v2.5-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.6-flash-free（`mimo-v2.6-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
@@ -302,6 +303,7 @@
 | Google: Lyria 3 Clip Preview（`google/lyria-3-clip-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | Google: Lyria 3 Pro Preview（`google/lyria-3-pro-preview`） | chat | permanent | 1048576 | 无需 Key |  |
 | inclusionAI: Ling 3.0 Flash Sante (free)（`inclusionai/ling-3.0-flash-sante:free`） | chat | permanent | 262144 | 无需 Key |  |
+| inclusionAI: Ling 3.1 Flash（`inclusionai/ling-3.1-flash`） | chat | permanent | 262144 | 无需 Key |  |
 | LiquidAI: LFM2.5-2.6B (free)（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Nano Omni (free)（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 256000 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Super (free)（`nvidia/nemotron-3-super-120b-a12b:free`） | chat | permanent | 262144 | 无需 Key |  |
