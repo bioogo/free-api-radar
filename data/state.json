@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-03T07:09:05.603Z",
+  "lastRunAt": "2026-10-04T07:29:43.984Z",
   "mode": "online",
   "totals": {
     "entries": 681,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 86,
-      "durationMs": 255
+      "durationMs": 133
     },
     "openrouter": {
       "status": "ok",
       "count": 466,
-      "durationMs": 85
+      "durationMs": 82
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1276
+      "durationMs": 1251
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -101,7 +101,7 @@
     "dashscope": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 DASHSCOPE_API_KEY"
     },
     "cloudflare-workers-ai": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 118,
-      "durationMs": 223
+      "durationMs": 143
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 119,
+      "durationMs": 88,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
