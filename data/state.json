@@ -1,32 +1,32 @@
 {
-  "lastRunAt": "2026-10-04T07:29:43.984Z",
+  "lastRunAt": "2026-10-05T07:45:12.055Z",
   "mode": "online",
   "totals": {
-    "entries": 681,
-    "free": 164,
+    "entries": 686,
+    "free": 169,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
       "community:cloudflare-workers-ai": 8,
       "community:cohere": 11,
       "cohere": 1,
-      "community:google-gemini": 10,
-      "community:groq": 5,
+      "community:google-gemini": 11,
       "groq": 2,
+      "community:groq": 3,
       "community:hugging-face": 6,
-      "community:kilo-code": 11,
-      "community:llm7-io": 3,
+      "community:kilo-code": 17,
+      "community:llm7-io": 4,
       "minimax": 1,
       "mistral": 1,
       "community:mistral-ai": 7,
       "community:modelscope": 3,
-      "community:nvidia-nim": 12,
+      "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
       "opencode": 86,
-      "community:openrouter": 12,
+      "community:openrouter": 17,
       "openrouter": 467,
-      "community:ovhcloud-ai-endpoints": 12,
+      "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
@@ -39,23 +39,23 @@
       "community:cloudflare-workers-ai": 8,
       "community:cohere": 11,
       "cohere": 1,
-      "community:google-gemini": 10,
-      "community:groq": 5,
+      "community:google-gemini": 11,
       "groq": 2,
+      "community:groq": 3,
       "community:hugging-face": 6,
-      "community:kilo-code": 11,
-      "community:llm7-io": 3,
+      "community:kilo-code": 17,
+      "community:llm7-io": 4,
       "minimax": 1,
       "mistral": 1,
       "community:mistral-ai": 7,
       "community:modelscope": 3,
-      "community:nvidia-nim": 12,
+      "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
       "opencode": 13,
-      "community:openrouter": 12,
+      "community:openrouter": 17,
       "openrouter": 23,
-      "community:ovhcloud-ai-endpoints": 12,
+      "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 86,
-      "durationMs": 133
+      "durationMs": 172
     },
     "openrouter": {
       "status": "ok",
       "count": 466,
-      "durationMs": 82
+      "durationMs": 83
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1251
+      "durationMs": 1412
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -101,7 +101,7 @@
     "dashscope": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 DASHSCOPE_API_KEY"
     },
     "cloudflare-workers-ai": {
@@ -166,13 +166,13 @@
     },
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
-      "count": 118,
-      "durationMs": 143
+      "count": 123,
+      "durationMs": 167
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 88,
+      "durationMs": 83,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
