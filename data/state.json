@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-10-05T07:45:12.055Z",
+  "lastRunAt": "2026-10-06T08:12:03.213Z",
   "mode": "online",
   "totals": {
-    "entries": 686,
-    "free": 169,
+    "entries": 684,
+    "free": 167,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -25,7 +25,7 @@
       "community:ollama-cloud": 10,
       "opencode": 86,
       "community:openrouter": 17,
-      "openrouter": 467,
+      "openrouter": 465,
       "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -54,7 +54,7 @@
       "community:ollama-cloud": 10,
       "opencode": 13,
       "community:openrouter": 17,
-      "openrouter": 23,
+      "openrouter": 21,
       "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 86,
-      "durationMs": 172
+      "durationMs": 223
     },
     "openrouter": {
       "status": "ok",
-      "count": 466,
-      "durationMs": 83
+      "count": 464,
+      "durationMs": 121
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1412
+      "durationMs": 1327
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 167
+      "durationMs": 153
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 83,
+      "durationMs": 108,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
