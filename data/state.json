@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-10T07:46:57.423Z",
+  "lastRunAt": "2026-10-11T07:53:59.463Z",
   "mode": "online",
   "totals": {
     "entries": 679,
@@ -68,12 +68,12 @@
     "opencode": {
       "status": "ok",
       "count": 87,
-      "durationMs": 309
+      "durationMs": 182
     },
     "openrouter": {
       "status": "ok",
       "count": 458,
-      "durationMs": 103
+      "durationMs": 72
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,12 +84,12 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1447
+      "durationMs": 1542
     },
     "google-ai-studio": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请）"
     },
     "zhipu": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 313
+      "durationMs": 112
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 256,
+      "durationMs": 83,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
