@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-10-11T07:53:59.463Z",
+  "lastRunAt": "2026-10-12T08:08:15.259Z",
   "mode": "online",
   "totals": {
-    "entries": 679,
-    "free": 165,
+    "entries": 675,
+    "free": 162,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -23,7 +23,7 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 87,
+      "opencode": 83,
       "community:openrouter": 17,
       "openrouter": 459,
       "community:ovhcloud-ai-endpoints": 11,
@@ -52,7 +52,7 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 12,
+      "opencode": 9,
       "community:openrouter": 17,
       "openrouter": 20,
       "community:ovhcloud-ai-endpoints": 11,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 87,
-      "durationMs": 182
+      "count": 83,
+      "durationMs": 509
     },
     "openrouter": {
       "status": "ok",
       "count": 458,
-      "durationMs": 72
+      "durationMs": 8484
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,12 +84,12 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1542
+      "durationMs": 1457
     },
     "google-ai-studio": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 GEMINI_API_KEY（AI Studio 免费额度需密钥，可到 aistudio.google.com 申请）"
     },
     "zhipu": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 112
+      "durationMs": 124
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 83,
+      "durationMs": 13,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
