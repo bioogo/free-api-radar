@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-10-14T06:47:33.929Z",
+  "lastRunAt": "2026-10-15T06:34:19.622Z",
   "mode": "online",
   "totals": {
-    "entries": 682,
-    "free": 161,
+    "entries": 681,
+    "free": 160,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -23,7 +23,7 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 86,
+      "opencode": 85,
       "community:openrouter": 17,
       "openrouter": 463,
       "community:ovhcloud-ai-endpoints": 11,
@@ -52,7 +52,7 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 10,
+      "opencode": 9,
       "community:openrouter": 17,
       "openrouter": 18,
       "community:ovhcloud-ai-endpoints": 11,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 86,
-      "durationMs": 309
+      "count": 85,
+      "durationMs": 233
     },
     "openrouter": {
       "status": "ok",
       "count": 462,
-      "durationMs": 85
+      "durationMs": 98
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1412
+      "durationMs": 1446
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -95,7 +95,7 @@
     "zhipu": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 BIGMODEL_API_KEY"
     },
     "dashscope": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 130
+      "durationMs": 179
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 143,
+      "durationMs": 71,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
