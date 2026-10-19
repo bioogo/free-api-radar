@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-18T06:39:53.308Z",
+  "lastRunAt": "2026-10-19T07:00:14.144Z",
   "mode": "online",
   "totals": {
     "entries": 690,
@@ -68,23 +68,23 @@
     "opencode": {
       "status": "ok",
       "count": 85,
-      "durationMs": 191
+      "durationMs": 166
     },
     "openrouter": {
       "status": "ok",
       "count": 471,
-      "durationMs": 108
+      "durationMs": 93
     },
     "siliconflow": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥）"
     },
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1272
+      "durationMs": 1262
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -95,7 +95,7 @@
     "zhipu": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 BIGMODEL_API_KEY"
     },
     "dashscope": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 119
+      "durationMs": 150
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 74,
+      "durationMs": 90,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
