@@ -1,8 +1,8 @@
 {
-  "lastRunAt": "2026-10-20T06:44:53.659Z",
+  "lastRunAt": "2026-10-21T06:40:04.094Z",
   "mode": "online",
   "totals": {
-    "entries": 689,
+    "entries": 688,
     "free": 163,
     "platforms": 27,
     "byPlatform": {
@@ -23,9 +23,9 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 85,
+      "opencode": 86,
       "community:openrouter": 17,
-      "openrouter": 471,
+      "openrouter": 469,
       "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 85,
-      "durationMs": 121
+      "count": 86,
+      "durationMs": 114
     },
     "openrouter": {
       "status": "ok",
-      "count": 470,
-      "durationMs": 69
+      "count": 468,
+      "durationMs": 230
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 975
+      "durationMs": 1010
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -101,7 +101,7 @@
     "dashscope": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 0,
+      "durationMs": 1,
       "skipped": "缺少 DASHSCOPE_API_KEY"
     },
     "cloudflare-workers-ai": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 16
+      "durationMs": 61
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 65,
+      "durationMs": 50,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
