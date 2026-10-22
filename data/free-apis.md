@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-10-21T06:40:04.094Z（在线拉取）
-> 共收录 **163** 条免费条目 / **688** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-10-22T06:41:38.365Z（在线拉取）
+> 共收录 **164** 条免费条目 / **688** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -283,9 +283,9 @@
 | --- | --- | --- | --- | --- | --- |
 | beam-free（`beam-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | deepseek-v4.1-flash-free（`deepseek-v4.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| flint-40b-free（`flint-40b-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | glm-5.3-flash-free（`glm-5.3-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | jev-1.13-free（`jev-1.13-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| longcat-2.5-preview-free（`longcat-2.5-preview-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.6-flash-free（`mimo-v2.6-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | minimax-m3.1-flash-free（`minimax-m3.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | nemotron-3.5-lightning-free（`nemotron-3.5-lightning-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
@@ -313,6 +313,7 @@
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
 | Poolside: Laguna S 2.1 (free)（`poolside/laguna-s-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Poolside: Laguna XS 2.1 (free)（`poolside/laguna-xs-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
+| Recursive: Flint (free)（`recursive/flint-v1.0:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Thinking Machines: Inkling Small (free)（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | Thinking Machines: Inkling (free)（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | XingChen: Xing4.0 29B A4B (free)（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 262144 | 无需 Key |  |
