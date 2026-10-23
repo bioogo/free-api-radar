@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-10-22T06:41:38.365Z",
+  "lastRunAt": "2026-10-23T06:36:57.579Z",
   "mode": "online",
   "totals": {
-    "entries": 688,
-    "free": 164,
+    "entries": 687,
+    "free": 162,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -23,7 +23,7 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 86,
+      "opencode": 85,
       "community:openrouter": 17,
       "openrouter": 469,
       "community:ovhcloud-ai-endpoints": 11,
@@ -52,9 +52,9 @@
       "community:nvidia-nim": 7,
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
-      "opencode": 9,
+      "opencode": 8,
       "community:openrouter": 17,
-      "openrouter": 22,
+      "openrouter": 21,
       "community:ovhcloud-ai-endpoints": 11,
       "community:siliconflow": 1,
       "community:z-ai-zhipu-ai-": 3,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 86,
-      "durationMs": 185
+      "count": 85,
+      "durationMs": 95
     },
     "openrouter": {
       "status": "ok",
       "count": 468,
-      "durationMs": 81
+      "durationMs": 58
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1663
+      "durationMs": 1155
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -101,7 +101,7 @@
     "dashscope": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 DASHSCOPE_API_KEY"
     },
     "cloudflare-workers-ai": {
@@ -167,12 +167,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 123,
-      "durationMs": 168
+      "durationMs": 14
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 143,
+      "durationMs": 51,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
