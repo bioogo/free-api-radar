@@ -1,21 +1,22 @@
 {
-  "lastRunAt": "2026-10-23T06:36:57.579Z",
+  "lastRunAt": "2026-10-24T06:34:29.097Z",
   "mode": "online",
   "totals": {
-    "entries": 687,
-    "free": 162,
-    "platforms": 27,
+    "entries": 699,
+    "free": 173,
+    "platforms": 28,
     "byPlatform": {
       "community:aion-labs": 4,
       "community:cloudflare-workers-ai": 8,
       "community:cohere": 11,
       "cohere": 1,
+      "community:gonka-broker": 4,
       "community:google-gemini": 11,
       "groq": 2,
       "community:groq": 3,
       "community:hugging-face": 6,
-      "community:kilo-code": 17,
-      "community:llm7-io": 4,
+      "community:kilo-code": 18,
+      "community:llm7-io": 5,
       "minimax": 1,
       "mistral": 1,
       "community:mistral-ai": 7,
@@ -24,10 +25,10 @@
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
       "opencode": 85,
-      "community:openrouter": 17,
-      "openrouter": 469,
+      "community:openrouter": 21,
+      "openrouter": 470,
       "community:ovhcloud-ai-endpoints": 11,
-      "community:siliconflow": 1,
+      "community:siliconflow": 2,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
       "moonshot": 1,
@@ -39,12 +40,13 @@
       "community:cloudflare-workers-ai": 8,
       "community:cohere": 11,
       "cohere": 1,
+      "community:gonka-broker": 4,
       "community:google-gemini": 11,
       "groq": 2,
       "community:groq": 3,
       "community:hugging-face": 6,
-      "community:kilo-code": 17,
-      "community:llm7-io": 4,
+      "community:kilo-code": 18,
+      "community:llm7-io": 5,
       "minimax": 1,
       "mistral": 1,
       "community:mistral-ai": 7,
@@ -53,10 +55,10 @@
       "nvidia-nim": 1,
       "community:ollama-cloud": 10,
       "opencode": 8,
-      "community:openrouter": 17,
+      "community:openrouter": 21,
       "openrouter": 21,
       "community:ovhcloud-ai-endpoints": 11,
-      "community:siliconflow": 1,
+      "community:siliconflow": 2,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
       "moonshot": 1,
@@ -68,12 +70,12 @@
     "opencode": {
       "status": "ok",
       "count": 85,
-      "durationMs": 95
+      "durationMs": 125
     },
     "openrouter": {
       "status": "ok",
-      "count": 468,
-      "durationMs": 58
+      "count": 469,
+      "durationMs": 59
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +86,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1155
+      "durationMs": 977
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -166,13 +168,13 @@
     },
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
-      "count": 123,
-      "durationMs": 14
+      "count": 134,
+      "durationMs": 64
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 51,
+      "durationMs": 55,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
