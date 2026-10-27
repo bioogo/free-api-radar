@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-10-26T07:07:36.331Z（在线拉取）
-> 共收录 **146** 条免费条目 / **670** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-10-27T06:52:50.619Z（在线拉取）
+> 共收录 **149** 条免费条目 / **669** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 85 |  |
-| OpenRouter | ok | 467 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 84 |  |
+| OpenRouter | ok | 464 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 107 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 110 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -87,7 +87,7 @@
 | --- | --- | --- | --- | --- | --- |
 | BAAI/bge-m3（`BAAI/bge-m3`） | chat | permanent | 8192 | 需要 Key | Embeddings |
 | deepseek-ai/DeepSeek-V4-Flash-0731（`deepseek-ai/DeepSeek-V4-Flash-0731`） | chat | permanent | 409600 | 需要 Key | Text (reasoning) |
-| MiniMaxAI/MiniMax-M2.7（`MiniMaxAI/MiniMax-M2.7`） | chat | permanent | 208896 | 需要 Key | Text (reasoning) |
+| MiniMaxAI/MiniMax-M2.7（`MiniMaxAI/MiniMax-M2.7`） | chat | permanent | 204800 | 需要 Key | Text (reasoning) |
 | zai-org/GLM-5.3-Flash（`zai-org/GLM-5.3-Flash`） | chat | permanent | 409600 | 需要 Key | Text (reasoning) |
 
 ### Google Gemini（community:google-gemini）
@@ -97,13 +97,11 @@
 | Gemini 2.5 Flash（`gemini-2.5-flash`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
 | Gemini 2.5 Flash-Lite（`gemini-2.5-flash-lite`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
 | Gemini 3.1 Flash-Lite（`gemini-3.1-flash-lite`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
-| Gemini 3.5 Flash（`gemini-3.5-flash`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
 | Gemini 3.5 Flash-Lite（`gemini-3.5-flash-lite`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
 | Gemini 3.6 Flash（`gemini-3.6-flash`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
-| Gemini 3.7 Flash（`gemini-3.7-flash`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
 | Gemini 3.8 Flash（`gemini-3.8-flash`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Audio + Video |
-| Gemma 4 26B A4B（`gemma-4-26b-a4b-it`） | chat | permanent | 262144 | 需要 Key | Text |
-| Gemma 4 31B（`gemma-4-31b-it`） | chat | permanent | 262144 | 需要 Key | Text |
+| Gemma 4 26B A4B（`gemma-4-26b-a4b-it`） | chat | permanent | 262144 | 需要 Key | Text + Image |
+| Gemma 4 31B（`gemma-4-31b-it`） | chat | permanent | 262144 | 需要 Key | Text + Image |
 
 ### Groq（community:groq）
 
@@ -122,7 +120,9 @@
 | kilo-auto/free（`kilo-auto/free`） | chat | permanent | 262144 | 需要 Key | Text |
 | liquid/lfm-2.5-2.6b:free（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Multimodal |
+| nvidia/nemotron-3-super-120b-a12b:free（`nvidia/nemotron-3-super-120b-a12b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
+| nvidia/nemotron-3.5-content-safety:free（`nvidia/nemotron-3.5-content-safety:free`） | chat | permanent | 131072 | 需要 Key | Text + Vision (moderation) |
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Multimodal |
 | openrouter/free（`openrouter/free`） | chat | permanent | — | 需要 Key | Text |
@@ -130,6 +130,7 @@
 | poolside/laguna-xs-2.1:free（`poolside/laguna-xs-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | reflection/beam-free（`reflection/beam-free`） | chat | permanent | 1048576 | 需要 Key | Text |
+| stealth/glyph-cluster（`stealth/glyph-cluster`） | chat | permanent | 262144 | 需要 Key | Text (code) |
 | xingchen-agi/xing4.0-29b-a4b:free（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 
 ### LLM7.io（community:llm7-io）
@@ -167,7 +168,7 @@
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | + 92 more models（`+ 92 more models`） | chat | permanent | — | 需要 Key | Text, Image, Video, Speech, Embeddings |
-| google/gemma-4-31b-it（`google/gemma-4-31b-it`） | chat | permanent | 268288 | 需要 Key | Text |
+| google/gemma-4-31b-it（`google/gemma-4-31b-it`） | chat | permanent | 268288 | 需要 Key | Text + Image + Video |
 | nvidia/nemotron-3-ultra-550b-a55b（`nvidia/nemotron-3-ultra-550b-a55b`） | chat | permanent | 1048576 | 需要 Key | Text |
 | openai/gpt-oss-20b（`openai/gpt-oss-20b`） | chat | permanent | 134144 | 需要 Key | Text |
 
@@ -177,26 +178,28 @@
 | --- | --- | --- | --- | --- | --- |
 | + other starter models（`+ other starter models`） | chat | permanent | — | 需要 Key | Text |
 | gpt-oss:120b（`gpt-oss:120b`） | chat | permanent | 131072 | 需要 Key | Text |
-| gpt-oss:20b（`gpt-oss:20b`） | chat | permanent | 134144 | 需要 Key | Text |
-| nemotron-3-ultra（`nemotron-3-ultra`） | chat | permanent | 268288 | 需要 Key | Text |
+| gpt-oss:20b（`gpt-oss:20b`） | chat | permanent | 131072 | 需要 Key | Text |
+| nemotron-3-ultra（`nemotron-3-ultra`） | chat | permanent | 262144 | 需要 Key | Text |
 
 ### OpenRouter（community:openrouter）
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| + 6 more free models（`+ 6 more free models`） | chat | permanent | — | 需要 Key | Text / Image |
 | cohere/north-mini-code:free（`cohere/north-mini-code:free`） | code | permanent | 262144 | 需要 Key | Text (code) |
 | dots-studio/dots-3-note-preview:free（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 524288 | 需要 Key | Text + Image |
 | google/gemma-4-26b-a4b-it:free（`google/gemma-4-26b-a4b-it:free`） | chat | permanent | 268288 | 需要 Key | Text + Image + Video |
-| google/gemma-4-31b-it:free（`google/gemma-4-31b-it:free`） | chat | permanent | 268288 | 需要 Key | Text + Image |
+| google/gemma-4-31b-it:free（`google/gemma-4-31b-it:free`） | chat | permanent | 268288 | 需要 Key | Text + Image + Video |
 | liquid/lfm-2.5-2.6b:free（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Text + Image + Audio + Video |
+| nvidia/nemotron-3-super-120b-a12b:free（`nvidia/nemotron-3-super-120b-a12b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
+| nvidia/nemotron-3.5-content-safety:free（`nvidia/nemotron-3.5-content-safety:free`） | chat | permanent | 131072 | 需要 Key | Text + Image (moderation) |
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Video |
 | poolside/laguna-s-2.1:free（`poolside/laguna-s-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | poolside/laguna-xs-2.1:free（`poolside/laguna-xs-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text |
+| thinkingmachines/inkling-small:free（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
 | thinkingmachines/inkling:free（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
 | xingchen-agi/xing4.0-29b-a4b:free（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 
@@ -204,11 +207,11 @@
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| gpt-oss-120b（`gpt-oss-120b`） | chat | permanent | 131072 | 需要 Key | Text |
-| gpt-oss-20b（`gpt-oss-20b`） | chat | permanent | 131072 | 需要 Key | Text |
+| gpt-oss-120b（`gpt-oss-120b`） | chat | permanent | 134144 | 需要 Key | Text |
+| gpt-oss-20b（`gpt-oss-20b`） | chat | permanent | 134144 | 需要 Key | Text |
 | Meta-Llama-3_3-70B-Instruct（`Meta-Llama-3_3-70B-Instruct`） | chat | permanent | 134144 | 需要 Key | Text |
-| Mistral-Nemo-Instruct-2407（`Mistral-Nemo-Instruct-2407`） | chat | permanent | 131072 | 需要 Key | Text |
-| Mistral-Small-3.2-24B-Instruct（`Mistral-Small-3.2-24B-Instruct-2506`） | chat | permanent | 131072 | 需要 Key | Text |
+| Mistral-Nemo-Instruct-2407（`Mistral-Nemo-Instruct-2407`） | chat | permanent | 120832 | 需要 Key | Text |
+| Mistral-Small-3.2-24B-Instruct（`Mistral-Small-3.2-24B-Instruct-2506`） | chat | permanent | 131072 | 需要 Key | Text + Vision |
 | Qwen2.5-VL-72B-Instruct（`Qwen2.5-VL-72B-Instruct`） | chat | permanent | 32768 | 需要 Key | Text + Vision |
 | Qwen3.5-397B-A17B（`Qwen3.5-397B-A17B`） | chat | permanent | 268288 | 需要 Key | Text + Vision |
 | Qwen3.5-9B（`Qwen3.5-9B`） | chat | permanent | 268288 | 需要 Key | Text + Vision |
