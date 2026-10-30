@@ -604,14 +604,6 @@
           "rateLimit": "200 req/hr"
         },
         {
-          "id": "nvidia/nemotron-3-super-120b-a12b:free",
-          "name": "nvidia/nemotron-3-super-120b-a12b:free",
-          "context": "262K",
-          "maxOutput": "235K",
-          "modality": "Text",
-          "rateLimit": "200 req/hr"
-        },
-        {
           "id": "stealth/glyph-cluster",
           "name": "stealth/glyph-cluster",
           "context": "256K",
@@ -762,50 +754,6 @@
       ]
     },
     {
-      "name": "Ollama Cloud",
-      "category": "inference_provider",
-      "country": "US",
-      "flag": "🇺🇸",
-      "url": "https://ollama.com/settings/keys",
-      "baseUrl": "https://ollama.com/api",
-      "description": "Free plan with a starter amount of usage credits for a smaller set of starter models, reset monthly from the sign-up date. 1 concurrent request. OpenAI SDK-compatible via https://ollama.com/v1.",
-      "footnoteRef": 3,
-      "models": [
-        {
-          "id": "gpt-oss:120b",
-          "name": "gpt-oss:120b",
-          "context": "128K",
-          "maxOutput": "Model-dependent",
-          "modality": "Text",
-          "rateLimit": "1 concurrent request, monthly starter credits"
-        },
-        {
-          "id": "gpt-oss:20b",
-          "name": "gpt-oss:20b",
-          "context": "128K",
-          "maxOutput": "Model-dependent",
-          "modality": "Text",
-          "rateLimit": "1 concurrent request, monthly starter credits"
-        },
-        {
-          "id": "nemotron-3-ultra",
-          "name": "nemotron-3-ultra",
-          "context": "256K",
-          "maxOutput": "Model-dependent",
-          "modality": "Text",
-          "rateLimit": "1 concurrent request, monthly starter credits"
-        },
-        {
-          "id": null,
-          "name": "+ other starter models",
-          "context": "Varies",
-          "maxOutput": "Varies",
-          "modality": "Text",
-          "rateLimit": "1 concurrent request, monthly starter credits"
-        }
-      ]
-    },
-    {
       "name": "OpenRouter",
       "category": "inference_provider",
       "country": "US",
@@ -933,14 +881,6 @@
           "context": "1M",
           "maxOutput": "262K",
           "modality": "Text + Image + Audio",
-          "rateLimit": "20 RPM, 50 RPD"
-        },
-        {
-          "id": "nvidia/nemotron-3-super-120b-a12b:free",
-          "name": "nvidia/nemotron-3-super-120b-a12b:free",
-          "context": "262K",
-          "maxOutput": "235K",
-          "modality": "Text",
           "rateLimit": "20 RPM, 50 RPD"
         },
         {
@@ -1084,16 +1024,12 @@
       "text": "Groq shut down qwen/qwen3.6-27b on September 14, 2026 (replaced by qwen/qwen3.8-27b) and groq/compound and groq/compound-mini on September 21, 2026 ([deprecations](https://console.groq.com/docs/deprecations)). Free-plan limits vary by model; the chat models listed get 1,000 RPD ([rate limits](https://console.groq.com/docs/rate-limits))."
     },
     {
-      "id": 3,
-      "text": "Ollama Cloud's Free plan includes a starter amount of usage for a smaller set of starter models. Buying credits unlocks all models ([pricing](https://ollama.com/pricing)). Free usage resets monthly from the sign-up date. Free allows 1 concurrent request, and extra requests are queued. Models outside the Free plan answer HTTP 402. Cloud models are also served through Ollama's OpenAI-compatible endpoint at ollama.com/v1."
-    },
-    {
       "id": 4,
       "text": "Free models allow 20 requests per minute and 50 requests per day, counted across all free models. Accounts that bought at least 10 credits get 1,000 requests per day ([limits](https://openrouter.ai/docs/api-reference/limits)). OpenRouter also offers a [Free Models Router](https://openrouter.ai/docs/guides/routing/routers/free-router) (`openrouter/free`) and [model fallbacks](https://openrouter.ai/docs/guides/routing/model-fallbacks) for chaining models in priority order. Free providers may log prompts for training."
     },
     {
       "id": 5,
-      "text": "Kilo Code's free pool changes frequently, and the /api/gateway/models catalog can lag what is actually served: probe results have confirmed models absent from the catalog still answering. Rows through liquid/lfm-2.5-2.6b:free answered a live request between 2026-08-19 and 2026-08-21; the rows after it were added on 2026-10-05 (through dots-studio/dots-3-note-preview:free) 2026-10-23 and 2026-10-25 from the catalog, where they are priced at $0, and have not been probed. The catalog describes reflection/beam-free as served through Vercel AI Gateway and notes that prompts may be retained for training. Free models are reachable with no API key, at 200 requests per hour per IP ([authentication](https://kilo.ai/docs/gateway/authentication)). The kilo-auto/free router picks a model from the free pool, and Kilo's docs warn it \"may route your requests to providers that log prompts and outputs\". The NVIDIA free endpoints carry NVIDIA's own condition, quoted on Kilo's [models page](https://kilo.ai/docs/gateway/models-and-providers): \"Trial use only - do not submit personal or confidential data. Your use is logged for security purposes and to improve NVIDIA products and services.\""
+      "text": "Kilo Code's free pool changes frequently, and the /api/gateway/models catalog can lag what is actually served: probe results have confirmed models absent from the catalog still answering. Rows through liquid/lfm-2.5-2.6b:free answered a live request between 2026-08-19 and 2026-08-21; the rows after it were added on 2026-10-05 (through dots-studio/dots-3-note-preview:free), 2026-10-23 and 2026-10-25 from the catalog, where they are priced at $0, and have not been probed. The catalog describes reflection/beam-free as served through Vercel AI Gateway and notes that prompts may be retained for training. Free models are reachable with no API key, at 200 requests per hour per IP ([authentication](https://kilo.ai/docs/gateway/authentication)). The kilo-auto/free router picks a model from the free pool, and Kilo's docs warn it \"may route your requests to providers that log prompts and outputs\". The NVIDIA free endpoints carry NVIDIA's own condition, quoted on Kilo's [models page](https://kilo.ai/docs/gateway/models-and-providers): \"Trial use only - do not submit personal or confidential data. Your use is logged for security purposes and to improve NVIDIA products and services.\""
     },
     {
       "id": 6,
