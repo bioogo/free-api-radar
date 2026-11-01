@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-10-31T07:35:18.093Z（在线拉取）
-> 共收录 **141** 条免费条目 / **649** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-01T08:14:23.307Z（在线拉取）
+> 共收录 **132** 条免费条目 / **638** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 78 |  |
-| OpenRouter | ok | 456 |  |
+| OpenRouter | ok | 452 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 104 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 97 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -121,12 +121,9 @@
 | liquid/lfm-2.5-2.6b:free（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Multimodal |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
-| nvidia/nemotron-3.5-content-safety:free（`nvidia/nemotron-3.5-content-safety:free`） | chat | permanent | 131072 | 需要 Key | Text + Vision (moderation) |
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Multimodal |
 | openrouter/free（`openrouter/free`） | chat | permanent | — | 需要 Key | Text |
-| poolside/laguna-s-2.1:free（`poolside/laguna-s-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
-| poolside/laguna-xs-2.1:free（`poolside/laguna-xs-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | reflection/beam-free（`reflection/beam-free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | stealth/glyph-cluster（`stealth/glyph-cluster`） | chat | permanent | 262144 | 需要 Key | Text (code) |
@@ -138,7 +135,6 @@
 | --- | --- | --- | --- | --- | --- |
 | codestral-latest（`codestral-latest`） | code | permanent | 32768 | 需要 Key | Text |
 | gpt-oss:20b（`gpt-oss:20b`） | chat | permanent | 131072 | 需要 Key | Text |
-| minimax-m2.7（`minimax-m2.7`） | chat | permanent | 184320 | 需要 Key | Text (reasoning) |
 | mistral-Nemo-Instruct-2407（`mistral-Nemo-Instruct-2407`） | chat | permanent | 131072 | 需要 Key | Text |
 | nemotron-3-nano:30b（`nemotron-3-nano:30b`） | chat | permanent | 1048576 | 需要 Key | Text (reasoning) |
 
@@ -182,11 +178,8 @@
 | liquid/lfm-2.5-2.6b:free（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Text + Image + Audio + Video |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
-| nvidia/nemotron-3.5-content-safety:free（`nvidia/nemotron-3.5-content-safety:free`） | chat | permanent | 131072 | 需要 Key | Text + Image (moderation) |
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Video |
-| poolside/laguna-s-2.1:free（`poolside/laguna-s-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
-| poolside/laguna-xs-2.1:free（`poolside/laguna-xs-2.1:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text |
 | thinkingmachines/inkling-small:free（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
 | thinkingmachines/inkling:free（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
@@ -283,8 +276,6 @@
 | NVIDIA: Nemotron 3.5 Lightning (free)（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | NVIDIA: Nemotron 3.5 Super VL (free)（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
-| Poolside: Laguna S 2.1 (free)（`poolside/laguna-s-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
-| Poolside: Laguna XS 2.1 (free)（`poolside/laguna-xs-2.1:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Recursive: Flint (free)（`recursive/flint-v1.0:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Thinking Machines: Inkling Small (free)（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | Thinking Machines: Inkling (free)（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
