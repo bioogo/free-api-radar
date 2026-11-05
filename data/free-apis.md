@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-04T08:10:44.355Z（在线拉取）
-> 共收录 **135** 条免费条目 / **643** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-05T08:37:02.166Z（在线拉取）
+> 共收录 **127** 条免费条目 / **637** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 97 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 91 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -118,16 +118,13 @@
 | cohere/north-mini-code:free（`cohere/north-mini-code:free`） | code | permanent | 262144 | 需要 Key | Text (code) |
 | dots-studio/dots-3-note-preview:free（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 524288 | 需要 Key | Text + Vision |
 | kilo-auto/free（`kilo-auto/free`） | chat | permanent | 262144 | 需要 Key | Text |
-| liquid/lfm-2.5-2.6b:free（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Multimodal |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Multimodal |
 | openrouter/free（`openrouter/free`） | chat | permanent | — | 需要 Key | Text |
-| recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text (code) |
 | reflection/beam-free（`reflection/beam-free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | stealth/glyph-cluster（`stealth/glyph-cluster`） | chat | permanent | 262144 | 需要 Key | Text (code) |
-| xingchen-agi/xing4.0-29b-a4b:free（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 
 ### LLM7.io（community:llm7-io）
 
@@ -181,8 +178,6 @@
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Text + Image + Video |
 | recursive/flint-v1.0:free（`recursive/flint-v1.0:free`） | chat | permanent | 268288 | 需要 Key | Text |
-| thinkingmachines/inkling-small:free（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
-| thinkingmachines/inkling:free（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 需要 Key | Text + Image + Audio |
 | xingchen-agi/xing4.0-29b-a4b:free（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 268288 | 需要 Key | Text |
 
 ### OVHcloud AI Endpoints（community:ovhcloud-ai-endpoints）
@@ -192,7 +187,6 @@
 | gpt-oss-120b（`gpt-oss-120b`） | chat | permanent | 134144 | 需要 Key | Text |
 | gpt-oss-20b（`gpt-oss-20b`） | chat | permanent | 134144 | 需要 Key | Text |
 | Meta-Llama-3_3-70B-Instruct（`Meta-Llama-3_3-70B-Instruct`） | chat | permanent | 134144 | 需要 Key | Text |
-| Mistral-Nemo-Instruct-2407（`Mistral-Nemo-Instruct-2407`） | chat | permanent | 120832 | 需要 Key | Text |
 | Mistral-Small-3.2-24B-Instruct（`Mistral-Small-3.2-24B-Instruct-2506`） | chat | permanent | 131072 | 需要 Key | Text + Vision |
 | Qwen2.5-VL-72B-Instruct（`Qwen2.5-VL-72B-Instruct`） | chat | permanent | 32768 | 需要 Key | Text + Vision |
 | Qwen3.5-397B-A17B（`Qwen3.5-397B-A17B`） | chat | permanent | 268288 | 需要 Key | Text + Vision |
@@ -280,8 +274,6 @@
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
 | Recursive: Flint (free)（`recursive/flint-v1.0:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Crouton Alpha（`stealth/crouton-alpha`） | chat | permanent | 1048576 | 无需 Key |  |
-| Thinking Machines: Inkling Small (free)（`thinkingmachines/inkling-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
-| Thinking Machines: Inkling (free)（`thinkingmachines/inkling:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | XingChen: Xing4.0 29B A4B (free)（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 262144 | 无需 Key |  |
 
 ### 阶跃星辰 Step（stepfun）

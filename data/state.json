@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-11-04T08:10:44.355Z",
+  "lastRunAt": "2026-11-05T08:37:02.166Z",
   "mode": "online",
   "totals": {
-    "entries": 643,
-    "free": 135,
+    "entries": 637,
+    "free": 127,
     "platforms": 26,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -14,7 +14,7 @@
       "community:google-gemini": 8,
       "groq": 2,
       "community:groq": 3,
-      "community:kilo-code": 13,
+      "community:kilo-code": 10,
       "community:llm7-io": 4,
       "minimax": 1,
       "mistral": 1,
@@ -24,8 +24,8 @@
       "nvidia-nim": 1,
       "opencode": 80,
       "openrouter": 456,
-      "community:openrouter": 13,
-      "community:ovhcloud-ai-endpoints": 10,
+      "community:openrouter": 11,
+      "community:ovhcloud-ai-endpoints": 9,
       "community:siliconflow": 2,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
@@ -42,7 +42,7 @@
       "community:google-gemini": 8,
       "groq": 2,
       "community:groq": 3,
-      "community:kilo-code": 13,
+      "community:kilo-code": 10,
       "community:llm7-io": 4,
       "minimax": 1,
       "mistral": 1,
@@ -51,9 +51,9 @@
       "community:nvidia-nim": 4,
       "nvidia-nim": 1,
       "opencode": 9,
-      "openrouter": 19,
-      "community:openrouter": 13,
-      "community:ovhcloud-ai-endpoints": 10,
+      "openrouter": 17,
+      "community:openrouter": 11,
+      "community:ovhcloud-ai-endpoints": 9,
       "community:siliconflow": 2,
       "community:z-ai-zhipu-ai-": 3,
       "workswarm": 1,
@@ -66,12 +66,12 @@
     "opencode": {
       "status": "ok",
       "count": 80,
-      "durationMs": 195
+      "durationMs": 191
     },
     "openrouter": {
       "status": "ok",
       "count": 455,
-      "durationMs": 70
+      "durationMs": 114
     },
     "siliconflow": {
       "status": "skipped",
@@ -82,7 +82,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1572
+      "durationMs": 1352
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -93,7 +93,7 @@
     "zhipu": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 BIGMODEL_API_KEY"
     },
     "dashscope": {
@@ -164,13 +164,13 @@
     },
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
-      "count": 97,
-      "durationMs": 112
+      "count": 91,
+      "durationMs": 119
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 75,
+      "durationMs": 108,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
