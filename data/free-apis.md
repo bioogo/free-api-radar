@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-05T08:37:02.166Z（在线拉取）
-> 共收录 **127** 条免费条目 / **637** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-06T08:36:24.309Z（在线拉取）
+> 共收录 **126** 条免费条目 / **635** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 80 |  |
-| OpenRouter | ok | 455 |  |
+| OpenRouter | ok | 453 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -268,7 +268,6 @@
 | LiquidAI: LFM2.5-2.6B (free)（`liquid/lfm-2.5-2.6b:free`） | chat | permanent | 65536 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Nano Omni (free)（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 256000 | 无需 Key |  |
 | NVIDIA: Nemotron 3 Ultra (free)（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1000000 | 无需 Key |  |
-| NVIDIA: Nemotron 3.5 Content Safety (free)（`nvidia/nemotron-3.5-content-safety:free`） | chat | permanent | 128000 | 无需 Key |  |
 | NVIDIA: Nemotron 3.5 Lightning (free)（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | NVIDIA: Nemotron 3.5 Super VL (free)（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
