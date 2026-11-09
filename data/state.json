@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-08T08:07:22.290Z",
+  "lastRunAt": "2026-11-09T08:44:41.447Z",
   "mode": "online",
   "totals": {
     "entries": 644,
@@ -66,12 +66,12 @@
     "opencode": {
       "status": "ok",
       "count": 81,
-      "durationMs": 117
+      "durationMs": 187
     },
     "openrouter": {
       "status": "ok",
       "count": 461,
-      "durationMs": 64
+      "durationMs": 72
     },
     "siliconflow": {
       "status": "skipped",
@@ -82,7 +82,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 987
+      "durationMs": 1434
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -105,7 +105,7 @@
     "cloudflare-workers-ai": {
       "status": "skipped",
       "count": 0,
-      "durationMs": 1,
+      "durationMs": 0,
       "skipped": "缺少 CF_API_TOKEN / CF_ACCOUNT_ID"
     },
     "nvidia-nim": {
@@ -165,12 +165,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 91,
-      "durationMs": 31
+      "durationMs": 149
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 56,
+      "durationMs": 83,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
