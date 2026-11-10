@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-09T08:44:41.447Z（在线拉取）
-> 共收录 **128** 条免费条目 / **644** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-10T08:52:14.993Z（在线拉取）
+> 共收录 **129** 条免费条目 / **651** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 81 |  |
-| OpenRouter | ok | 461 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 84 |  |
+| OpenRouter | ok | 465 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -245,13 +245,14 @@
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | beam-free（`beam-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| crouton-alpha-free（`crouton-alpha-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | deepseek-v4.1-flash-free（`deepseek-v4.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | flint-40b-free（`flint-40b-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | glm-5.3-flash-free（`glm-5.3-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | iceman-free（`iceman-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | inkling-2-small-free（`inkling-2-small-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| longcat-2.5-free（`longcat-2.5-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.6-flash-free（`mimo-v2.6-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| minimax-m3.1-flash-free（`minimax-m3.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | nemotron-3.5-lightning-free（`nemotron-3.5-lightning-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | nemotron-3.5-super-vl-free（`nemotron-3.5-super-vl-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 
@@ -274,7 +275,7 @@
 | NVIDIA: Nemotron 3.5 Super VL (free)（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
 | Recursive: Flint (free)（`recursive/flint-v1.0:free`） | chat | permanent | 262144 | 无需 Key |  |
-| Crouton Alpha（`stealth/crouton-alpha`） | chat | permanent | 1048576 | 无需 Key |  |
+| Thinking Machines: Inkling 2 Small (free)（`thinkingmachines/inkling-2-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 | XingChen: Xing4.0 29B A4B (free)（`xingchen-agi/xing4.0-29b-a4b:free`） | chat | permanent | 262144 | 无需 Key |  |
 
 ### 阶跃星辰 Step（stepfun）
