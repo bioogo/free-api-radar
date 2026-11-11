@@ -1,8 +1,8 @@
 {
-  "lastRunAt": "2026-11-10T08:52:14.993Z",
+  "lastRunAt": "2026-11-11T08:28:29.358Z",
   "mode": "online",
   "totals": {
-    "entries": 651,
+    "entries": 656,
     "free": 129,
     "platforms": 26,
     "byPlatform": {
@@ -22,8 +22,8 @@
       "community:modelscope": 3,
       "community:nvidia-nim": 4,
       "nvidia-nim": 1,
-      "opencode": 84,
-      "openrouter": 466,
+      "opencode": 85,
+      "openrouter": 470,
       "community:openrouter": 11,
       "community:ovhcloud-ai-endpoints": 9,
       "community:siliconflow": 2,
@@ -65,13 +65,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 84,
-      "durationMs": 199
+      "count": 85,
+      "durationMs": 358
     },
     "openrouter": {
       "status": "ok",
-      "count": 465,
-      "durationMs": 76
+      "count": 469,
+      "durationMs": 66
     },
     "siliconflow": {
       "status": "skipped",
@@ -82,7 +82,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1237
+      "durationMs": 1165
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -165,12 +165,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 91,
-      "durationMs": 100
+      "durationMs": 84
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 69,
+      "durationMs": 73,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
