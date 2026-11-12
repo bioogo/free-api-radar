@@ -1,7 +1,7 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-11T08:28:29.358Z（在线拉取）
-> 共收录 **129** 条免费条目 / **656** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-12T08:52:59.776Z（在线拉取）
+> 共收录 **120** 条免费条目 / **646** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
@@ -9,7 +9,7 @@
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
 | OpenCode Zen（WorkSwarm 同源免费网关） | ok | 85 |  |
-| OpenRouter | ok | 469 |  |
+| OpenRouter | ok | 468 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 91 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 82 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -123,7 +123,6 @@
 | nvidia/nemotron-3.5-lightning:free（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | nvidia/nemotron-3.5-super-vl:free（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1048576 | 需要 Key | Multimodal |
 | openrouter/free（`openrouter/free`） | chat | permanent | — | 需要 Key | Text |
-| reflection/beam-free（`reflection/beam-free`） | chat | permanent | 1048576 | 需要 Key | Text |
 | stealth/glyph-cluster（`stealth/glyph-cluster`） | chat | permanent | 262144 | 需要 Key | Text (code) |
 
 ### LLM7.io（community:llm7-io）
@@ -133,19 +132,6 @@
 | codestral-latest（`codestral-latest`） | code | permanent | 32768 | 需要 Key | Text |
 | gpt-oss:20b（`gpt-oss:20b`） | chat | permanent | 131072 | 需要 Key | Text |
 | mistral-Nemo-Instruct-2407（`mistral-Nemo-Instruct-2407`） | chat | permanent | 131072 | 需要 Key | Text |
-| nemotron-3-nano:30b（`nemotron-3-nano:30b`） | chat | permanent | 1048576 | 需要 Key | Text (reasoning) |
-
-### Mistral AI（community:mistral-ai）
-
-| 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
-| --- | --- | --- | --- | --- | --- |
-| Codestral（`codestral-2508`） | code | permanent | 131072 | 需要 Key | Code |
-| Ministral 3 14B（`ministral-14b-2512`） | chat | permanent | 262144 | 需要 Key | Text + Vision |
-| Ministral 3 3B（`ministral-3b-2512`） | chat | permanent | 262144 | 需要 Key | Text + Vision |
-| Ministral 3 8B（`ministral-8b-2512`） | chat | permanent | 262144 | 需要 Key | Text + Vision |
-| Mistral Large 3（`mistral-large-2512`） | chat | permanent | 262144 | 需要 Key | Multimodal |
-| Mistral Medium 3.5 (128B)（`mistral-medium-3-5`） | chat | permanent | 262144 | 需要 Key | Text + Image + Code |
-| Mistral Small 4（`mistral-small-2603`） | chat | permanent | 262144 | 需要 Key | Text + Image + Code |
 
 ### ModelScope（community:modelscope）
 
