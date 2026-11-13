@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-12T08:52:59.776Z（在线拉取）
-> 共收录 **120** 条免费条目 / **646** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-13T08:49:09.360Z（在线拉取）
+> 共收录 **122** 条免费条目 / **654** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 85 |  |
-| OpenRouter | ok | 468 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 86 |  |
+| OpenRouter | ok | 475 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -246,6 +246,7 @@
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
+| Apodex: Apodex 1.1 Mini (free)（`apodex/apodex-1.1-mini:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Baidu: ERNIE-5.5-Flash-Preview (free)（`baidu/ernie-5.5-flash-preview:free`） | chat | permanent | 1024000 | 无需 Key |  |
 | Cohere: North Mini Code (free)（`cohere/north-mini-code:free`） | code | permanent | 256000 | 无需 Key |  |
 | DeepSeek R1 (free)（`deepseek/deepseek-r1:free`） | reasoning | permanent | 163840 | 无需 Key | 种子数据；refresh 时会被 OpenRouter 实时目录覆盖 |
@@ -261,6 +262,7 @@
 | NVIDIA: Nemotron 3.5 Lightning (free)（`nvidia/nemotron-3.5-lightning:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | NVIDIA: Nemotron 3.5 Super VL (free)（`nvidia/nemotron-3.5-super-vl:free`） | chat | permanent | 1000000 | 无需 Key |  |
 | Free Models Router（`openrouter/free`） | chat | permanent | 200000 | 无需 Key |  |
+| Particle AI: Particle-1 (free)（`particle-ai/particle-1:free`） | chat | permanent | 1048576 | 无需 Key |  |
 | Recursive: Flint (free)（`recursive/flint-v1.0:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Thinking Machines: Inkling 2 Small (free)（`thinkingmachines/inkling-2-small:free`） | reasoning | permanent | 1048576 | 无需 Key |  |
 
