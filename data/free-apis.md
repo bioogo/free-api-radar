@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-17T09:46:29.077Z（在线拉取）
-> 共收录 **118** 条免费条目 / **646** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-18T09:17:38.382Z（在线拉取）
+> 共收录 **121** 条免费条目 / **659** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 86 |  |
-| OpenRouter | ok | 470 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 87 |  |
+| OpenRouter | ok | 478 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 79 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 83 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -51,6 +51,15 @@
 | aion-labs/aion-3.0（`aion-labs/aion-3.0`） | chat | permanent | 131072 | 需要 Key | Text (reasoning) |
 | aion-labs/aion-3.0-mini（`aion-labs/aion-3.0-mini`） | chat | permanent | 131072 | 需要 Key | Text (reasoning) |
 | aion-labs/aion-rp-llama-3.1-8b（`aion-labs/aion-rp-llama-3.1-8b`） | chat | permanent | 32768 | 需要 Key | Text |
+
+### AxForge（community:axforge）
+
+| 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
+| --- | --- | --- | --- | --- | --- |
+| glm-5.3-flash（`glm-5.3-flash`） | chat | permanent | 512000 | 需要 Key | Text + Vision |
+| mimo-v2.6-flash（`mimo-v2.6-flash`） | chat | permanent | 268288 | 需要 Key | Text + Vision |
+| qwen3.8-27b（`qwen3.8-27b`） | chat | permanent | 268288 | 需要 Key | Text + Vision |
+| qwen3.8-flash-next（`qwen3.8-flash-next`） | chat | permanent | 512000 | 需要 Key | Text + Vision |
 
 ### Cloudflare Workers AI（community:cloudflare-workers-ai）
 
@@ -230,7 +239,6 @@
 | beam-free（`beam-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | deepseek-v4.1-flash-free（`deepseek-v4.1-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | flint-40b-free（`flint-40b-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| glm-5.3-flash-free（`glm-5.3-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | hy4-flash-free（`hy4-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | iceman-free（`iceman-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | inkling-2-small-free（`inkling-2-small-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
