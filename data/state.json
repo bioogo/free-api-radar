@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-11-18T09:17:38.382Z",
+  "lastRunAt": "2026-11-19T09:33:04.932Z",
   "mode": "online",
   "totals": {
-    "entries": 659,
-    "free": 121,
+    "entries": 658,
+    "free": 122,
     "platforms": 26,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -22,8 +22,8 @@
       "community:modelscope": 3,
       "community:nvidia-nim": 3,
       "nvidia-nim": 1,
-      "opencode": 87,
-      "openrouter": 479,
+      "opencode": 84,
+      "openrouter": 481,
       "community:openrouter": 9,
       "community:ovhcloud-ai-endpoints": 9,
       "community:siliconflow": 2,
@@ -50,7 +50,7 @@
       "community:modelscope": 3,
       "community:nvidia-nim": 3,
       "nvidia-nim": 1,
-      "opencode": 10,
+      "opencode": 11,
       "openrouter": 18,
       "community:openrouter": 9,
       "community:ovhcloud-ai-endpoints": 9,
@@ -65,13 +65,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 87,
-      "durationMs": 271
+      "count": 84,
+      "durationMs": 109
     },
     "openrouter": {
       "status": "ok",
-      "count": 478,
-      "durationMs": 69
+      "count": 480,
+      "durationMs": 93
     },
     "siliconflow": {
       "status": "skipped",
@@ -82,7 +82,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1591
+      "durationMs": 1063
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -165,12 +165,12 @@
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
       "count": 83,
-      "durationMs": 189
+      "durationMs": 69
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 59,
+      "durationMs": 12,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
