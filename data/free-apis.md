@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-22T08:55:08.505Z（在线拉取）
-> 共收录 **119** 条免费条目 / **675** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-23T09:53:13.604Z（在线拉取）
+> 共收录 **114** 条免费条目 / **671** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 105 |  |
-| OpenRouter | ok | 476 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 106 |  |
+| OpenRouter | ok | 477 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 83 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 77 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -65,7 +65,6 @@
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| @cf/deepseek-ai/deepseek-r1-distill-qwen-32b（`@cf/deepseek-ai/deepseek-r1-distill-qwen-32b`） | chat | permanent | 81920 | 需要 Key | Text (reasoning) |
 | @cf/google/gemma-4-26b-a4b-it（`@cf/google/gemma-4-26b-a4b-it`） | chat | permanent | 262144 | 需要 Key | Text + Vision |
 | @cf/meta/llama-3.3-70b-instruct-fp8-fast（`@cf/meta/llama-3.3-70b-instruct-fp8-fast`） | chat | permanent | 24576 | 需要 Key | Text |
 | @cf/meta/llama-4-scout-17b-16e-instruct（`@cf/meta/llama-4-scout-17b-16e-instruct`） | chat | permanent | 134144 | 需要 Key | Multimodal |
@@ -124,8 +123,6 @@
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| cohere/north-mini-code:free（`cohere/north-mini-code:free`） | code | permanent | 262144 | 需要 Key | Text (code) |
-| dots-studio/dots-3-note-preview:free（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 524288 | 需要 Key | Text + Vision |
 | kilo-auto/free（`kilo-auto/free`） | chat | permanent | 262144 | 需要 Key | Text |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Multimodal |
 | nvidia/nemotron-3-ultra-550b-a55b:free（`nvidia/nemotron-3-ultra-550b-a55b:free`） | chat | permanent | 1048576 | 需要 Key | Text |
@@ -156,14 +153,11 @@
 | --- | --- | --- | --- | --- | --- |
 | + 92 more models（`+ 92 more models`） | chat | permanent | — | 需要 Key | Text, Image, Video, Speech, Embeddings |
 | nvidia/nemotron-3-ultra-550b-a55b（`nvidia/nemotron-3-ultra-550b-a55b`） | chat | permanent | 1048576 | 需要 Key | Text |
-| openai/gpt-oss-20b（`openai/gpt-oss-20b`） | chat | permanent | 134144 | 需要 Key | Text |
 
 ### OpenRouter（community:openrouter）
 
 | 模型 | 类别 | 免费类型 | 上下文 | 认证 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| cohere/north-mini-code:free（`cohere/north-mini-code:free`） | code | permanent | 262144 | 需要 Key | Text (code) |
-| dots-studio/dots-3-note-preview:free（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 524288 | 需要 Key | Text + Image |
 | google/gemma-4-26b-a4b-it:free（`google/gemma-4-26b-a4b-it:free`） | chat | permanent | 268288 | 需要 Key | Text + Image + Video |
 | google/gemma-4-31b-it:free（`google/gemma-4-31b-it:free`） | chat | permanent | 268288 | 需要 Key | Text + Image + Video |
 | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free（`nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free`） | reasoning | permanent | 262144 | 需要 Key | Text + Image + Audio + Video |
@@ -242,10 +236,10 @@
 | hy4-flash-free（`hy4-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | iceman-free（`iceman-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | jev-1.13-free（`jev-1.13-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
-| longcat-2.5-free（`longcat-2.5-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | mimo-v2.6-flash-free（`mimo-v2.6-flash-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | nemotron-3.5-lightning-free（`nemotron-3.5-lightning-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | nemotron-3.5-super-vl-free（`nemotron-3.5-super-vl-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
+| qwen4-max-free（`qwen4-max-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 | tidepool-alpha-free（`tidepool-alpha-free`） | chat | permanent | — | 无需 Key | OpenCode Zen 网关（opencode.ai/zen），华为 WorkSwarm 免费模型的同源网关；免密钥，OpenAI 兼容。 |
 
 ### OpenRouter（openrouter）
@@ -254,6 +248,7 @@
 | --- | --- | --- | --- | --- | --- |
 | Baidu: ERNIE-5.5-Flash-Preview (free)（`baidu/ernie-5.5-flash-preview:free`） | chat | permanent | 1024000 | 无需 Key |  |
 | DeepSeek R1 (free)（`deepseek/deepseek-r1:free`） | reasoning | permanent | 163840 | 无需 Key | 种子数据；refresh 时会被 OpenRouter 实时目录覆盖 |
+| Dots Studio: Dots3-Note Preview (free)（`dots-studio/dots-3-note-preview:free`） | chat | permanent | 512000 | 无需 Key |  |
 | Google: Gemma 4 26B A4B  (free)（`google/gemma-4-26b-a4b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Google: Gemma 4 31B (free)（`google/gemma-4-31b-it:free`） | chat | permanent | 262144 | 无需 Key |  |
 | Google: Lyria 3 Clip Preview（`google/lyria-3-clip-preview`） | chat | permanent | 1048576 | 无需 Key |  |
