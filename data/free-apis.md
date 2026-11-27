@@ -1,15 +1,15 @@
 # 全平台免费可调用 API 雷达（free-api-radar）
 
-> 生成时间：2026-11-26T10:05:42.933Z（在线拉取）
-> 共收录 **117** 条免费条目 / **675** 条模型记录（curated 种子 11 条，缓存 0 条）。
+> 生成时间：2026-11-27T10:11:43.027Z（在线拉取）
+> 共收录 **116** 条免费条目 / **679** 条模型记录（curated 种子 11 条，缓存 0 条）。
 > ⚠️ 免费额度、限速与定价会随时调整，**以各平台官网为准**；标注 "unknown" 的条目表示接口未返回定价信息，需自行核实。
 
 ## 源状态
 
 | 源 | 状态 | 条目数 | 说明 |
 | --- | --- | --- | --- |
-| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 108 |  |
-| OpenRouter | ok | 474 |  |
+| OpenCode Zen（WorkSwarm 同源免费网关） | ok | 110 |  |
+| OpenRouter | ok | 477 |  |
 | SiliconFlow 硅基流动 | skipped | 0 | 缺少 SILICONFLOW_API_KEY（SiliconFlow 模型目录接口需要密钥） |
 | GitHub Models | error | 0 | Unexpected token 'O', "OK
 " is not valid JSON |
@@ -26,7 +26,7 @@
 | Together AI | skipped | 0 | 缺少 TOGETHER_API_KEY（模型目录接口需要密钥） |
 | DeepSeek 官方 | skipped | 0 | 缺少 DEEPSEEK_API_KEY（模型目录接口需要密钥） |
 | 百度千帆 | skipped | 0 | 缺少 QIANFAN_ACCESS_KEY（模型目录接口需要密钥） |
-| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 82 |  |
+| 社区清单 mnfst/awesome-free-llm-apis (data.json) | ok | 81 |  |
 | awesome-freellm-apis (134+ 免费 LLM API 大全 README) | ok | 0 | /home/runner/work/free-api-radar/free-api-radar/data/references/awesome-freellm-apis.md |
 
 ## 免费可调用条目（按平台）
@@ -137,7 +137,6 @@
 | --- | --- | --- | --- | --- | --- |
 | codestral-latest（`codestral-latest`） | code | permanent | 32768 | 需要 Key | Text |
 | gpt-oss:20b（`gpt-oss:20b`） | chat | permanent | 131072 | 需要 Key | Text |
-| mistral-Nemo-Instruct-2407（`mistral-Nemo-Instruct-2407`） | chat | permanent | 131072 | 需要 Key | Text |
 
 ### ModelScope（community:modelscope）
 

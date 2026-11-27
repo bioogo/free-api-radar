@@ -1,9 +1,9 @@
 {
-  "lastRunAt": "2026-11-26T10:05:42.933Z",
+  "lastRunAt": "2026-11-27T10:11:43.027Z",
   "mode": "online",
   "totals": {
-    "entries": 675,
-    "free": 117,
+    "entries": 679,
+    "free": 116,
     "platforms": 27,
     "byPlatform": {
       "community:aion-labs": 4,
@@ -16,14 +16,14 @@
       "groq": 2,
       "community:groq": 3,
       "community:kilo-code": 7,
-      "community:llm7-io": 3,
+      "community:llm7-io": 2,
       "minimax": 1,
       "mistral": 1,
       "community:modelscope": 3,
       "community:nvidia-nim": 2,
       "nvidia-nim": 1,
-      "opencode": 108,
-      "openrouter": 475,
+      "opencode": 110,
+      "openrouter": 478,
       "community:openrouter": 7,
       "community:ovhcloud-ai-endpoints": 9,
       "community:runcrate": 5,
@@ -45,7 +45,7 @@
       "groq": 2,
       "community:groq": 3,
       "community:kilo-code": 7,
-      "community:llm7-io": 3,
+      "community:llm7-io": 2,
       "minimax": 1,
       "mistral": 1,
       "community:modelscope": 3,
@@ -67,13 +67,13 @@
   "perSource": {
     "opencode": {
       "status": "ok",
-      "count": 108,
-      "durationMs": 338
+      "count": 110,
+      "durationMs": 109
     },
     "openrouter": {
       "status": "ok",
-      "count": 474,
-      "durationMs": 152
+      "count": 477,
+      "durationMs": 81
     },
     "siliconflow": {
       "status": "skipped",
@@ -84,7 +84,7 @@
     "github-models": {
       "status": "error",
       "error": "Unexpected token 'O', \"OK\r\n\" is not valid JSON",
-      "durationMs": 1381
+      "durationMs": 984
     },
     "google-ai-studio": {
       "status": "skipped",
@@ -166,13 +166,13 @@
     },
     "mnfst-awesome-free-llm-apis": {
       "status": "ok",
-      "count": 82,
-      "durationMs": 144
+      "count": 81,
+      "durationMs": 38
     },
     "awesome-freellm-apis-readme": {
       "status": "ok",
       "count": 0,
-      "durationMs": 98,
+      "durationMs": 64,
       "reference": {
         "id": "awesome-freellm-apis-readme",
         "label": "awesome-freellm-apis (134+ 免费 LLM API 大全 README)",
